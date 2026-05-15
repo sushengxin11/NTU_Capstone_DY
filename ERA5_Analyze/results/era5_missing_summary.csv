@@ -1,0 +1,13 @@
+column,missing_count,missing_rate
+timestamp,0,0.0
+era5_temperature_c,0,0.0
+era5_relative_humidity_pct,0,0.0
+era5_precipitation_mm,0,0.0
+era5_cloud_cover_pct,0,0.0
+era5_ghi_wm2,0,0.0
+era5_dni_wm2,0,0.0
+era5_dhi_wm2,0,0.0
+era5_gti_wm2,0,0.0
+era5_wind_speed_ms,0,0.0
+era5_wind_direction_deg,0,0.0
+era5_surface_pressure_hpa,0,0.0
