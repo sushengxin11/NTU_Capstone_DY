@@ -1,0 +1,11 @@
+check,count
+negative_target_values,14085
+target_above_12.60_kw,0
+Global_Horizontal_Radiation_negative,1
+Diffuse_Horizontal_Radiation_negative,0
+Radiation_Global_Tilted_negative,3
+Radiation_Diffuse_Tilted_negative,1
+humidity_outside_0_100,14589
+wind_direction_outside_0_360,6925
+wind_speed_negative,6
+daily_rainfall_negative,0

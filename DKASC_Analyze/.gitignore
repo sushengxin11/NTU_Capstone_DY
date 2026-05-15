@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Keep raw DKASC CSV files outside Git unless explicitly approved.
+data/raw/
+data/processed/*.csv
+*.zip
+
+# Local environment files.
+.venv/
+venv/
+.env

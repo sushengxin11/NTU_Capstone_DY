@@ -1,0 +1,4 @@
+dataset,rows,columns,start_time,end_time,median_interval,most_common_interval,duplicate_timestamps_after_dedup
+weather_station,1761522,10,2008-09-12 05:55:00,2025-08-23 05:55:00,0 days 00:05:00,0 days 00:05:00,0
+1a_trina_raw,1250668,13,2013-08-14 15:35:00,2025-08-23 05:20:00,0 days 00:05:00,0 days 00:05:00,0
+total_sites_raw,1767903,17,2008-09-12 05:55:00,2025-08-23 05:00:00,0 days 00:05:00,0 days 00:05:00,0
