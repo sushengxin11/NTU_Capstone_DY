@@ -1,0 +1,7 @@
+PVOD 光伏功率特征评估与消融分析摘要
+样本规模：原始2848，清洗后2813，删除率1.23%
+Top1特征：1D_nwp_globalirrad（Composite=0.9132）
+综合评分权重口径：Pearson(0.3)+MI(0.2)+SHAP_without_LMD(0.5)，SHAP源=No-LMD
+三低特征数量：2
+Master Table：/Users/dazhaxie/Desktop/Deye/PVOD_Forecast/artifacts/station05_master_feature_table_2019-04.csv
+报告文件：/Users/dazhaxie/Desktop/Deye/PVOD_Forecast/artifacts/station05_feature_analysis_report_2019-04.docx
