@@ -1,0 +1,81 @@
+{
+  "seeds": [
+    17,
+    42,
+    2026
+  ],
+  "folds": [
+    [
+      "roll_1",
+      "2019-04-15",
+      "2019-04-25",
+      "2019-05-05"
+    ],
+    [
+      "roll_2",
+      "2019-05-01",
+      "2019-05-11",
+      "2019-05-21"
+    ],
+    [
+      "roll_3",
+      "2019-05-15",
+      "2019-05-30",
+      "2019-06-14"
+    ]
+  ],
+  "max_epochs": 35,
+  "patience": 7,
+  "history_steps": 16,
+  "horizons_minutes": [
+    15,
+    60
+  ],
+  "sequence_features": [
+    "power",
+    "lmd_totalirrad",
+    "lmd_diffuseirrad",
+    "lmd_temperature",
+    "lmd_pressure",
+    "lmd_windspeed",
+    "era_u10",
+    "era_v10",
+    "era_d2m",
+    "era_t2m",
+    "era_sp",
+    "era_tcc",
+    "era_ssrd",
+    "era_fdir",
+    "era_r_1000",
+    "era_r_850",
+    "era_r_500",
+    "era_t_1000",
+    "era_t_850",
+    "era_t_500",
+    "era_u_1000",
+    "era_u_850",
+    "era_u_500",
+    "era_v_1000",
+    "era_v_850",
+    "era_v_500",
+    "lmd_winddirection_sin",
+    "lmd_winddirection_cos"
+  ],
+  "calendar_features": [
+    "target_hour_sin",
+    "target_hour_cos",
+    "target_doy_sin",
+    "target_doy_cos"
+  ],
+  "architecture": "1 layer LSTM/GRU hidden=32 + Dense32/ReLU/Dense1; predict residual over persistence",
+  "optimizer": "Adam lr=0.001 weight_decay=0.0001 gradient_clip=1 batch=256",
+  "scaler": "train windows only; flattened overlapping timestamps weighted by occurrence",
+  "selection": "chronological validation RMSE checkpoint, no evaluation tuning",
+  "split_rule": "train target < validation start; validation origin >= validation start and target < evaluation start; evaluation origin >= evaluation start and target < evaluation end",
+  "excluded_utc_dates": [
+    "2019-05-31"
+  ],
+  "era5_caveat": "retrospective valid-time inputs, publication latency not simulated",
+  "evaluation_caveat": "all evaluation periods lie in previously inspected historical data; roll_3 overlaps v1 test; exploratory, not fresh holdout",
+  "comparison_caveat": "RNN receives 16 observations of all weather fields; tree uses same power history but weather at origin only; algorithm and representation both differ"
+}

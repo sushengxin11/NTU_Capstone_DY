@@ -1,0 +1,55 @@
+{
+  "sources": [
+    {
+      "file": "PVODdatasets_v1.0/station05.csv",
+      "bytes": 995776,
+      "sha256": "457ff923e93d29a43f4882080499e0a75c2e22a093899664a23398f921adf126"
+    },
+    {
+      "file": "PVODdatasets_v1.0/metadata.csv",
+      "bytes": 7222,
+      "sha256": "d148eaeab2000223684449dc83a1d77843668a81e3ad483e4a7c9cda06023544"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_April.nc",
+      "bytes": 303627,
+      "sha256": "c13c2044705d2ed39e2708881f8d8bb2b04dfe28a8134a6d588d70ea34852b75"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_June.nc",
+      "bytes": 302946,
+      "sha256": "3123a2ee75593f4236165f041fff993b0b5d43328ec06997cc791cde31e56752"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_March.nc",
+      "bytes": 311657,
+      "sha256": "c4ffb372b7aed8d2110f84675569133e74b63117c72c7f2ae3714648df6b13c0"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_May.nc",
+      "bytes": 304503,
+      "sha256": "5cb143e78ade955220c02db8a2c5fd74ecacb1dae9c617726d3c40fc8fcd05ce"
+    },
+    {
+      "file": "ERA5_data/single_levels_instant/1_data_stream-oper_stepType-instant.nc",
+      "bytes": 340648,
+      "sha256": "356276e6863929444f31adcd48250391de15465aa4c6aa995133c3bb63972285"
+    },
+    {
+      "file": "ERA5_data/single_levels_instant/2_data_stream-oper_stepType-instant.nc",
+      "bytes": 341626,
+      "sha256": "94d412d1e1df81c23aad0fc15b66de166e0d47bee1b16a3908379b4c0e67e68b"
+    },
+    {
+      "file": "ERA5_data/single_levels_radiation/data_stream-oper_stepType-accum.nc",
+      "bytes": 300222,
+      "sha256": "c19c62f191cc0abfee501b180cf8390dd572106ad65631d25848f1fb01f6b483"
+    }
+  ],
+  "python": "3.9.6",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "xarray": "2024.7.0",
+  "sklearn": "1.6.1",
+  "seed": 42
+}

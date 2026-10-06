@@ -1,0 +1,7 @@
+horizon_minutes,fold,days,surface_better_days,pressure_better_days
+15,roll_1,10,5,3
+15,roll_2,10,4,7
+15,roll_3,14,12,6
+60,roll_1,10,8,4
+60,roll_2,10,9,8
+60,roll_3,14,10,6

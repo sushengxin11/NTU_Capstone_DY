@@ -1,0 +1,9 @@
+{
+  "weather": "ERA5 native UTC valid hour vs LMD measurement at same hour; wind = hypot(u10,v10)",
+  "radiation": "ERA5 preceding-hour mean vs trapezoidal integral of five LMD samples, assumes LMD labels are instantaneous; right-endpoint four-sample mean also reported",
+  "radiation_limit": "LMD interval label semantics not fully documented, approximate temporal comparability; no shifting to maximize correlation",
+  "weather_limits": "grid vs site, pressure/elevation and wind measurement height differences not corrected; no claim of sensor equivalence",
+  "scene_thresholds": "per fold and horizon; training daylight (>20W/m2) irradiance tertiles and absolute target-origin power change p90",
+  "scene_use": "future target measurements only for retrospective evaluation partition; never model inputs",
+  "evaluation": "previously inspected historical periods; no new independent holdout or model retraining"
+}

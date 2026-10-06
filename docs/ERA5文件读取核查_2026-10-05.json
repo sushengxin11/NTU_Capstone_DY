@@ -1,0 +1,811 @@
+[
+  {
+    "file": "ERA5_data/pressure_levels/2019_April.nc",
+    "dimensions": {
+      "valid_time": 720,
+      "pressure_level": 3,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 720,
+        "first": "2019-04-01T00:00:00.000000000",
+        "last": "2019-04-30T23:00:00.000000000"
+      },
+      "pressure_level": {
+        "size": 3,
+        "first": "1000.0",
+        "last": "500.0",
+        "values": [
+          1000.0,
+          850.0,
+          500.0
+        ]
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 720,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "r": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "%",
+        "long_name": "Relative humidity",
+        "min": 0.713047981262207,
+        "max": 104.74356079101562,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "t": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "Temperature",
+        "min": 245.23338317871094,
+        "max": 309.008056640625,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "u": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "U component of wind",
+        "min": -19.656600952148438,
+        "max": 35.39314270019531,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "v": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "V component of wind",
+        "min": -38.557525634765625,
+        "max": 17.814926147460938,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      }
+    }
+  },
+  {
+    "file": "ERA5_data/pressure_levels/2019_June.nc",
+    "dimensions": {
+      "valid_time": 720,
+      "pressure_level": 3,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 720,
+        "first": "2019-06-01T00:00:00.000000000",
+        "last": "2019-06-30T23:00:00.000000000"
+      },
+      "pressure_level": {
+        "size": 3,
+        "first": "1000.0",
+        "last": "500.0",
+        "values": [
+          1000.0,
+          850.0,
+          500.0
+        ]
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 720,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "r": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "%",
+        "long_name": "Relative humidity",
+        "min": 1.7135534286499023,
+        "max": 107.24089050292969,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "t": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "Temperature",
+        "min": 255.7275848388672,
+        "max": 310.865478515625,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "u": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "U component of wind",
+        "min": -8.176116943359375,
+        "max": 24.450592041015625,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "v": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "V component of wind",
+        "min": -19.834930419921875,
+        "max": 14.425674438476562,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      }
+    }
+  },
+  {
+    "file": "ERA5_data/pressure_levels/2019_March.nc",
+    "dimensions": {
+      "valid_time": 744,
+      "pressure_level": 3,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 744,
+        "first": "2019-03-01T00:00:00.000000000",
+        "last": "2019-03-31T23:00:00.000000000"
+      },
+      "pressure_level": {
+        "size": 3,
+        "first": "1000.0",
+        "last": "500.0",
+        "values": [
+          1000.0,
+          850.0,
+          500.0
+        ]
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 744,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "r": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "%",
+        "long_name": "Relative humidity",
+        "min": 1.009256362915039,
+        "max": 107.81571960449219,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 20088
+      },
+      "t": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "Temperature",
+        "min": 240.23939514160156,
+        "max": 299.1028747558594,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 20088
+      },
+      "u": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "U component of wind",
+        "min": -8.39056396484375,
+        "max": 44.141937255859375,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 20088
+      },
+      "v": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "V component of wind",
+        "min": -29.425933837890625,
+        "max": 19.5506591796875,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 20088
+      }
+    }
+  },
+  {
+    "file": "ERA5_data/pressure_levels/2019_May.nc",
+    "dimensions": {
+      "valid_time": 720,
+      "pressure_level": 3,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 720,
+        "first": "2019-05-01T00:00:00.000000000",
+        "last": "2019-05-30T23:00:00.000000000"
+      },
+      "pressure_level": {
+        "size": 3,
+        "first": "1000.0",
+        "last": "500.0",
+        "values": [
+          1000.0,
+          850.0,
+          500.0
+        ]
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 720,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "r": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "%",
+        "long_name": "Relative humidity",
+        "min": 0.27872180938720703,
+        "max": 104.50167846679688,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "t": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "Temperature",
+        "min": 249.14413452148438,
+        "max": 312.27679443359375,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "u": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "U component of wind",
+        "min": -11.580581665039062,
+        "max": 44.56983947753906,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      },
+      "v": {
+        "dims": [
+          "valid_time",
+          "pressure_level",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "V component of wind",
+        "min": -28.474761962890625,
+        "max": 14.146957397460938,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 19440
+      }
+    }
+  },
+  {
+    "file": "ERA5_data/single_levels_instant/1_data_stream-oper_stepType-instant.nc",
+    "dimensions": {
+      "valid_time": 1464,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 1464,
+        "first": "2019-03-01T00:00:00.000000000",
+        "last": "2019-04-30T23:00:00.000000000"
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 1464,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "u10": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "10 metre U wind component",
+        "min": -8.09088134765625,
+        "max": 6.90789794921875,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "v10": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "10 metre V wind component",
+        "min": -6.8053436279296875,
+        "max": 6.445556640625,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "d2m": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "2 metre dewpoint temperature",
+        "min": 251.89083862304688,
+        "max": 290.6416320800781,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "t2m": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "2 metre temperature",
+        "min": 269.36529541015625,
+        "max": 306.5013427734375,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "sp": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "Pa",
+        "long_name": "Surface pressure",
+        "min": 93347.5,
+        "max": 102018.4375,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "tcc": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "(0 - 1)",
+        "long_name": "Total cloud cover",
+        "min": 0.0,
+        "max": 1.0,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      }
+    }
+  },
+  {
+    "file": "ERA5_data/single_levels_instant/2_data_stream-oper_stepType-instant.nc",
+    "dimensions": {
+      "valid_time": 1464,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 1464,
+        "first": "2019-05-01T00:00:00.000000000",
+        "last": "2019-06-30T23:00:00.000000000"
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 1464,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "u10": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "10 metre U wind component",
+        "min": -5.37969970703125,
+        "max": 7.19384765625,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "v10": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "m s**-1",
+        "long_name": "10 metre V wind component",
+        "min": -5.9402313232421875,
+        "max": 6.5225067138671875,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "d2m": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "2 metre dewpoint temperature",
+        "min": 260.5335693359375,
+        "max": 297.041015625,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "t2m": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "K",
+        "long_name": "2 metre temperature",
+        "min": 279.00445556640625,
+        "max": 313.26953125,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "sp": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "Pa",
+        "long_name": "Surface pressure",
+        "min": 93392.125,
+        "max": 101549.0,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      },
+      "tcc": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "(0 - 1)",
+        "long_name": "Total cloud cover",
+        "min": 0.0,
+        "max": 1.0,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 13176
+      }
+    }
+  },
+  {
+    "file": "ERA5_data/single_levels_radiation/data_stream-oper_stepType-accum.nc",
+    "dimensions": {
+      "valid_time": 2928,
+      "latitude": 3,
+      "longitude": 3
+    },
+    "coordinates": {
+      "number": {
+        "size": 1,
+        "first": "0",
+        "last": "0"
+      },
+      "valid_time": {
+        "size": 2928,
+        "first": "2019-03-01T00:00:00.000000000",
+        "last": "2019-06-30T23:00:00.000000000"
+      },
+      "latitude": {
+        "size": 3,
+        "first": "38.5",
+        "last": "38.0",
+        "values": [
+          38.5,
+          38.25,
+          38.0
+        ]
+      },
+      "longitude": {
+        "size": 3,
+        "first": "114.0",
+        "last": "114.5",
+        "values": [
+          114.0,
+          114.25,
+          114.5
+        ]
+      },
+      "expver": {
+        "size": 2928,
+        "first": "0001",
+        "last": "0001"
+      }
+    },
+    "variables": {
+      "ssrd": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "J m**-2",
+        "long_name": "Surface short-wave (solar) radiation downwards",
+        "min": 0.0,
+        "max": 3507328.0,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 26352
+      },
+      "fdir": {
+        "dims": [
+          "valid_time",
+          "latitude",
+          "longitude"
+        ],
+        "units": "J m**-2",
+        "long_name": "Surface direct short-wave (solar) radiation",
+        "min": 0.0,
+        "max": 2833984.0,
+        "missing": 0,
+        "nonfinite": 0,
+        "size": 26352
+      }
+    }
+  }
+]

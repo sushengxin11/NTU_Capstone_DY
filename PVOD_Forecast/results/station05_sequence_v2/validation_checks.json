@@ -1,0 +1,74 @@
+[
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_1",
+    "n": 959,
+    "models": 10,
+    "finite_predictions": true,
+    "gap_crossing_windows": 0,
+    "target_metrics_recomputed": true,
+    "label_availability_boundaries_valid": true,
+    "checkpoint_reload_sample_n": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07
+  },
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_2",
+    "n": 959,
+    "models": 10,
+    "finite_predictions": true,
+    "gap_crossing_windows": 0,
+    "target_metrics_recomputed": true,
+    "label_availability_boundaries_valid": true,
+    "checkpoint_reload_sample_n": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07
+  },
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_3",
+    "n": 1295,
+    "models": 10,
+    "finite_predictions": true,
+    "gap_crossing_windows": 0,
+    "target_metrics_recomputed": true,
+    "label_availability_boundaries_valid": true,
+    "checkpoint_reload_sample_n": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_1",
+    "n": 956,
+    "models": 10,
+    "finite_predictions": true,
+    "gap_crossing_windows": 0,
+    "target_metrics_recomputed": true,
+    "label_availability_boundaries_valid": true,
+    "checkpoint_reload_sample_n": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_2",
+    "n": 956,
+    "models": 10,
+    "finite_predictions": true,
+    "gap_crossing_windows": 0,
+    "target_metrics_recomputed": true,
+    "label_availability_boundaries_valid": true,
+    "checkpoint_reload_sample_n": 3,
+    "checkpoint_max_abs_difference_MW": 1.430511474609375e-06
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_3",
+    "n": 1289,
+    "models": 10,
+    "finite_predictions": true,
+    "gap_crossing_windows": 0,
+    "target_metrics_recomputed": true,
+    "label_availability_boundaries_valid": true,
+    "checkpoint_reload_sample_n": 3,
+    "checkpoint_max_abs_difference_MW": 9.5367431640625e-07
+  }
+]

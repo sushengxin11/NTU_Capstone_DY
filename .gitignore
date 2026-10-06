@@ -1,0 +1,19 @@
+# OS and Python/Jupyter caches
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local dependency environments and credentials
+.venv*/
+venv/
+.env
+.env.*
+!.env.example
+.cdsapirc
+
+# Experiment source data, saved models, metrics and logs are intentionally tracked.

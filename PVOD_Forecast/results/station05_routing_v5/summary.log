@@ -1,0 +1,15 @@
+  fold      split      selected      scope    n  baseline_RMSE_MW  selected_RMSE_MW  improvement_pct  baseline_MAE_MW  selected_MAE_MW
+roll_1 evaluation      baseline        all  956          2.891979          2.891979         0.000000         1.500657         1.500657
+roll_1 evaluation      baseline day_stable  438          3.870917          3.870917         0.000000         2.718934         2.718934
+roll_1 evaluation      baseline   day_ramp   39          5.334295          5.334295         0.000000         4.030423         4.030423
+roll_2 evaluation HGB_hard_0.15        all  956          2.401961          2.390579         0.473867         1.197669         1.191978
+roll_2 evaluation HGB_hard_0.15 day_stable  471          2.501621          2.490710         0.436149         1.744621         1.738112
+roll_2 evaluation HGB_hard_0.15   day_ramp   47          7.378207          7.339908         0.519084         6.145833         6.095310
+roll_3 evaluation       LR_soft        all 1289          3.119888          3.102018         0.572752         1.563383         1.559397
+roll_3 evaluation       LR_soft day_stable  618          2.752472          2.752322         0.005466         2.037957         2.040807
+roll_3 evaluation       LR_soft   day_ramp   83          9.716880          9.627124         0.923716         8.443832         8.358846
+  fold      split classifier mode  threshold                              threshold_role    n  event_n  event_frequency  PR_AUC_average_precision  precision   recall   TN  FP  FN  TP    Brier
+roll_2 validation        HGB hard       0.15                           actual hard route  956       36         0.037657                  0.177747   0.384615 0.138889  912   8  31   5 0.033681
+roll_2 evaluation        HGB hard       0.15                           actual hard route  956       47         0.049163                  0.233197   0.269231 0.148936  890  19  40   7 0.043085
+roll_3 validation         LR soft       0.50 0.5 diagnostic; soft route has no threshold 1436       62         0.043175                  0.136757   0.000000 0.000000 1374   0  62   0 0.039356
+roll_3 evaluation         LR soft       0.50 0.5 diagnostic; soft route has no threshold 1289       83         0.064391                  0.333164   0.000000 0.000000 1206   0  83   0 0.055995

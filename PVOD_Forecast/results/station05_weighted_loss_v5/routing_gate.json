@@ -1,0 +1,26 @@
+[
+  {
+    "fold": "roll_1",
+    "expert_model": "HGB",
+    "expert_alpha": 1,
+    "expert_validation_ramp_RMSE_MW": 7.683208942449194,
+    "baseline_validation_ramp_RMSE_MW": 7.683208942449194,
+    "routing_enabled": false
+  },
+  {
+    "fold": "roll_2",
+    "expert_model": "HGB",
+    "expert_alpha": 4,
+    "expert_validation_ramp_RMSE_MW": 6.230504865319521,
+    "baseline_validation_ramp_RMSE_MW": 6.859450393101302,
+    "routing_enabled": true
+  },
+  {
+    "fold": "roll_3",
+    "expert_model": "HGB",
+    "expert_alpha": 4,
+    "expert_validation_ramp_RMSE_MW": 5.962118224074977,
+    "baseline_validation_ramp_RMSE_MW": 6.706007659731414,
+    "routing_enabled": true
+  }
+]

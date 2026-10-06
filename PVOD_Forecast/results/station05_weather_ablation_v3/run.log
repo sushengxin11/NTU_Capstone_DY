@@ -1,0 +1,80 @@
+roll_1_15min_GRU_local_seed17: epoch=31 val_RMSE=1.6116 elapsed=1.4s
+roll_1_15min_GRU_local_seed42: epoch=24 val_RMSE=1.6514 elapsed=1.2s
+roll_1_15min_GRU_local_seed2026: epoch=31 val_RMSE=1.6490 elapsed=1.4s
+roll_1_15min_GRU_local_surface_seed17: epoch=17 val_RMSE=1.6300 elapsed=1.0s
+roll_1_15min_GRU_local_surface_seed42: epoch=29 val_RMSE=1.6181 elapsed=1.4s
+roll_1_15min_GRU_local_surface_seed2026: epoch=25 val_RMSE=1.6374 elapsed=1.3s
+roll_1_15min_GRU_local_surface_pressure_seed17: epoch=30 val_RMSE=1.6181 elapsed=1.5s
+roll_1_15min_GRU_local_surface_pressure_seed42: epoch=20 val_RMSE=1.6277 elapsed=1.1s
+roll_1_15min_GRU_local_surface_pressure_seed2026: epoch=7 val_RMSE=1.7000 elapsed=0.6s
+roll_2_15min_GRU_local_seed17: epoch=32 val_RMSE=1.3218 elapsed=2.0s
+roll_2_15min_GRU_local_seed42: epoch=34 val_RMSE=1.3188 elapsed=1.9s
+roll_2_15min_GRU_local_seed2026: epoch=22 val_RMSE=1.3312 elapsed=1.6s
+roll_2_15min_GRU_local_surface_seed17: epoch=13 val_RMSE=1.3741 elapsed=1.1s
+roll_2_15min_GRU_local_surface_seed42: epoch=17 val_RMSE=1.3667 elapsed=1.3s
+roll_2_15min_GRU_local_surface_seed2026: epoch=18 val_RMSE=1.3901 elapsed=1.3s
+roll_2_15min_GRU_local_surface_pressure_seed17: epoch=12 val_RMSE=1.3814 elapsed=1.0s
+roll_2_15min_GRU_local_surface_pressure_seed42: epoch=17 val_RMSE=1.3991 elapsed=1.3s
+roll_2_15min_GRU_local_surface_pressure_seed2026: epoch=12 val_RMSE=1.3991 elapsed=1.0s
+roll_3_15min_GRU_local_seed17: epoch=17 val_RMSE=1.8565 elapsed=1.6s
+roll_3_15min_GRU_local_seed42: epoch=26 val_RMSE=1.8173 elapsed=2.2s
+roll_3_15min_GRU_local_seed2026: epoch=20 val_RMSE=1.8221 elapsed=1.8s
+roll_3_15min_GRU_local_surface_seed17: epoch=27 val_RMSE=1.8045 elapsed=2.2s
+roll_3_15min_GRU_local_surface_seed42: epoch=27 val_RMSE=1.8390 elapsed=2.4s
+roll_3_15min_GRU_local_surface_seed2026: epoch=26 val_RMSE=1.8023 elapsed=2.2s
+roll_3_15min_GRU_local_surface_pressure_seed17: epoch=16 val_RMSE=1.8561 elapsed=1.5s
+roll_3_15min_GRU_local_surface_pressure_seed42: epoch=23 val_RMSE=1.8730 elapsed=2.0s
+roll_3_15min_GRU_local_surface_pressure_seed2026: epoch=26 val_RMSE=1.8221 elapsed=2.1s
+roll_1_60min_GRU_local_seed17: epoch=34 val_RMSE=2.4195 elapsed=1.4s
+roll_1_60min_GRU_local_seed42: epoch=17 val_RMSE=2.4967 elapsed=0.9s
+roll_1_60min_GRU_local_seed2026: epoch=27 val_RMSE=2.4847 elapsed=1.3s
+roll_1_60min_GRU_local_surface_seed17: epoch=13 val_RMSE=2.5555 elapsed=0.8s
+roll_1_60min_GRU_local_surface_seed42: epoch=13 val_RMSE=2.5646 elapsed=0.8s
+roll_1_60min_GRU_local_surface_seed2026: epoch=8 val_RMSE=2.5724 elapsed=0.6s
+roll_1_60min_GRU_local_surface_pressure_seed17: epoch=10 val_RMSE=2.4844 elapsed=0.7s
+roll_1_60min_GRU_local_surface_pressure_seed42: epoch=15 val_RMSE=2.5240 elapsed=0.9s
+roll_1_60min_GRU_local_surface_pressure_seed2026: epoch=7 val_RMSE=2.5816 elapsed=0.5s
+roll_2_60min_GRU_local_seed17: epoch=21 val_RMSE=2.1719 elapsed=1.5s
+roll_2_60min_GRU_local_seed42: epoch=32 val_RMSE=2.1200 elapsed=1.8s
+roll_2_60min_GRU_local_seed2026: epoch=28 val_RMSE=2.0832 elapsed=1.8s
+roll_2_60min_GRU_local_surface_seed17: epoch=14 val_RMSE=2.3032 elapsed=1.2s
+roll_2_60min_GRU_local_surface_seed42: epoch=28 val_RMSE=2.3038 elapsed=1.8s
+roll_2_60min_GRU_local_surface_seed2026: epoch=16 val_RMSE=2.3117 elapsed=1.2s
+roll_2_60min_GRU_local_surface_pressure_seed17: epoch=14 val_RMSE=2.3013 elapsed=1.1s
+roll_2_60min_GRU_local_surface_pressure_seed42: epoch=20 val_RMSE=2.3114 elapsed=1.4s
+roll_2_60min_GRU_local_surface_pressure_seed2026: epoch=15 val_RMSE=2.3119 elapsed=1.2s
+roll_3_60min_GRU_local_seed17: epoch=19 val_RMSE=2.3027 elapsed=1.8s
+roll_3_60min_GRU_local_seed42: epoch=32 val_RMSE=2.0965 elapsed=2.3s
+roll_3_60min_GRU_local_seed2026: epoch=35 val_RMSE=2.1739 elapsed=2.2s
+roll_3_60min_GRU_local_surface_seed17: epoch=19 val_RMSE=2.1777 elapsed=1.6s
+roll_3_60min_GRU_local_surface_seed42: epoch=24 val_RMSE=2.1941 elapsed=2.0s
+roll_3_60min_GRU_local_surface_seed2026: epoch=25 val_RMSE=2.1840 elapsed=2.0s
+roll_3_60min_GRU_local_surface_pressure_seed17: epoch=16 val_RMSE=2.3448 elapsed=1.5s
+roll_3_60min_GRU_local_surface_pressure_seed42: epoch=18 val_RMSE=2.4016 elapsed=1.6s
+roll_3_60min_GRU_local_surface_pressure_seed2026: epoch=17 val_RMSE=2.2763 elapsed=1.6s
+ horizon_minutes   fold                      model scope  RMSE_mean_MW  RMSE_seed_std_MW  MAE_mean_MW  seed_runs    n
+              15 roll_1                  GRU_local   all      1.594758          0.010450     0.752148          3  959
+              15 roll_1          GRU_local_surface   all      1.564841          0.023286     0.703566          3  959
+              15 roll_1 GRU_local_surface_pressure   all      1.637084          0.053150     0.791970          3  959
+              15 roll_1                persistence   all      1.799113               NaN     0.829086          1  959
+              15 roll_2                  GRU_local   all      1.708949          0.017468     0.782797          3  959
+              15 roll_2          GRU_local_surface   all      1.687108          0.044479     0.796052          3  959
+              15 roll_2 GRU_local_surface_pressure   all      1.744177          0.008277     0.793067          3  959
+              15 roll_2                persistence   all      1.922250               NaN     0.905440          1  959
+              15 roll_3                  GRU_local   all      2.283644          0.039678     1.053658          3 1295
+              15 roll_3          GRU_local_surface   all      2.231334          0.019228     0.940762          3 1295
+              15 roll_3 GRU_local_surface_pressure   all      2.257087          0.025669     0.928293          3 1295
+              15 roll_3                persistence   all      2.468651               NaN     1.049482          1 1295
+              60 roll_1                  GRU_local   all      2.688718          0.124409     1.529278          3  956
+              60 roll_1          GRU_local_surface   all      2.884467          0.041834     1.623056          3  956
+              60 roll_1 GRU_local_surface_pressure   all      2.922651          0.068049     1.677337          3  956
+              60 roll_1                persistence   all      3.873783               NaN     2.216270          1  956
+              60 roll_2                  GRU_local   all      2.584489          0.102219     1.318066          3  956
+              60 roll_2          GRU_local_surface   all      2.621593          0.040642     1.466821          3  956
+              60 roll_2 GRU_local_surface_pressure   all      2.744228          0.088581     1.626063          3  956
+              60 roll_2                persistence   all      4.063246               NaN     2.419001          1  956
+              60 roll_3                  GRU_local   all      3.402886          0.085280     1.954064          3 1289
+              60 roll_3          GRU_local_surface   all      3.273613          0.137948     1.845216          3 1289
+              60 roll_3 GRU_local_surface_pressure   all      3.255012          0.019246     1.634302          3 1289
+              60 roll_3                persistence   all      4.470432               NaN     2.495930          1 1289
+Completed: /Users/sushengxin/Desktop/NTU_BLOCKCHAIN/Capstone _Deye/NTU_Capstone_DY/PVOD_Forecast/results/station05_weather_ablation_v3

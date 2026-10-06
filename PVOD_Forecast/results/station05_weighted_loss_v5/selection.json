@@ -1,0 +1,62 @@
+[
+  {
+    "fold": "roll_1",
+    "model": "HGB",
+    "selected_alpha": 1,
+    "expert_alpha": 1,
+    "validation_ramp_RMSE_MW": 7.683208942449194,
+    "feasible_alphas": [
+      1
+    ]
+  },
+  {
+    "fold": "roll_1",
+    "model": "GRU",
+    "selected_alpha": 1,
+    "expert_alpha": 1,
+    "validation_ramp_RMSE_MW": 9.777178201089793,
+    "feasible_alphas": [
+      1
+    ]
+  },
+  {
+    "fold": "roll_2",
+    "model": "HGB",
+    "selected_alpha": 1,
+    "expert_alpha": 4,
+    "validation_ramp_RMSE_MW": 6.859450393101302,
+    "feasible_alphas": [
+      1
+    ]
+  },
+  {
+    "fold": "roll_2",
+    "model": "GRU",
+    "selected_alpha": 1,
+    "expert_alpha": 4,
+    "validation_ramp_RMSE_MW": 7.797084733218274,
+    "feasible_alphas": [
+      1
+    ]
+  },
+  {
+    "fold": "roll_3",
+    "model": "HGB",
+    "selected_alpha": 1,
+    "expert_alpha": 4,
+    "validation_ramp_RMSE_MW": 6.706007659731414,
+    "feasible_alphas": [
+      1
+    ]
+  },
+  {
+    "fold": "roll_3",
+    "model": "GRU",
+    "selected_alpha": 1,
+    "expert_alpha": 1,
+    "validation_ramp_RMSE_MW": 6.974783615082095,
+    "feasible_alphas": [
+      1
+    ]
+  }
+]

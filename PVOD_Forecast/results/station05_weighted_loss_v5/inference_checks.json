@@ -1,0 +1,20 @@
+[
+  {
+    "fold": "roll_1",
+    "rows": 3,
+    "max_abs_diff_MW": 0.0,
+    "future_target_columns_in_input": false
+  },
+  {
+    "fold": "roll_2",
+    "rows": 3,
+    "max_abs_diff_MW": 0.0,
+    "future_target_columns_in_input": false
+  },
+  {
+    "fold": "roll_3",
+    "rows": 3,
+    "max_abs_diff_MW": 0.0,
+    "future_target_columns_in_input": false
+  }
+]

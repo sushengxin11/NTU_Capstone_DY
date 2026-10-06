@@ -1,0 +1,70 @@
+{
+  "excluded_utc_dates": [
+    "2019-05-31"
+  ],
+  "exclusion_scope": "All sources in joint experiments; retain original files. Do not interpolate or create sequence windows across the excluded gap.",
+  "groups": {
+    "pressure_levels": {
+      "hours": 2904,
+      "duplicate_times": 0,
+      "missing_hours_before_exclusion": 24,
+      "missing_hours_after_exclusion": 0,
+      "usable_hours_after_exclusion": 2904,
+      "missing_timestamps": [
+        "2019-05-31 00:00:00",
+        "2019-05-31 01:00:00",
+        "2019-05-31 02:00:00",
+        "2019-05-31 03:00:00",
+        "2019-05-31 04:00:00",
+        "2019-05-31 05:00:00",
+        "2019-05-31 06:00:00",
+        "2019-05-31 07:00:00",
+        "2019-05-31 08:00:00",
+        "2019-05-31 09:00:00",
+        "2019-05-31 10:00:00",
+        "2019-05-31 11:00:00",
+        "2019-05-31 12:00:00",
+        "2019-05-31 13:00:00",
+        "2019-05-31 14:00:00",
+        "2019-05-31 15:00:00",
+        "2019-05-31 16:00:00",
+        "2019-05-31 17:00:00",
+        "2019-05-31 18:00:00",
+        "2019-05-31 19:00:00",
+        "2019-05-31 20:00:00",
+        "2019-05-31 21:00:00",
+        "2019-05-31 22:00:00",
+        "2019-05-31 23:00:00"
+      ]
+    },
+    "single_levels_instant": {
+      "hours": 2928,
+      "duplicate_times": 0,
+      "missing_hours_before_exclusion": 0,
+      "missing_hours_after_exclusion": 0,
+      "usable_hours_after_exclusion": 2904,
+      "missing_timestamps": []
+    },
+    "single_levels_radiation": {
+      "hours": 2928,
+      "duplicate_times": 0,
+      "missing_hours_before_exclusion": 0,
+      "missing_hours_after_exclusion": 0,
+      "usable_hours_after_exclusion": 2904,
+      "missing_timestamps": []
+    }
+  },
+  "sst_present": false,
+  "instant_required_variables": [
+    "u10",
+    "v10",
+    "d2m",
+    "t2m",
+    "sp",
+    "tcc"
+  ],
+  "instant_missing_variables": {
+    "ERA5_data/single_levels_instant/1_data_stream-oper_stepType-instant.nc": [],
+    "ERA5_data/single_levels_instant/2_data_stream-oper_stepType-instant.nc": []
+  }
+}

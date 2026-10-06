@@ -1,0 +1,80 @@
+[
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_1",
+    "n": 959,
+    "matched_samples": true,
+    "metric_rows_recomputed": 20,
+    "gap_crossing_windows": 0,
+    "label_availability_checked": true,
+    "fixed_parameter_count": 7169,
+    "checkpoint_reload_samples_per_model": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07,
+    "full_group_vs_v2_max_abs_difference_MW": 0.0
+  },
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_2",
+    "n": 959,
+    "matched_samples": true,
+    "metric_rows_recomputed": 20,
+    "gap_crossing_windows": 0,
+    "label_availability_checked": true,
+    "fixed_parameter_count": 7169,
+    "checkpoint_reload_samples_per_model": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07,
+    "full_group_vs_v2_max_abs_difference_MW": 0.0
+  },
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_3",
+    "n": 1295,
+    "matched_samples": true,
+    "metric_rows_recomputed": 20,
+    "gap_crossing_windows": 0,
+    "label_availability_checked": true,
+    "fixed_parameter_count": 7169,
+    "checkpoint_reload_samples_per_model": 3,
+    "checkpoint_max_abs_difference_MW": 2.384185791015625e-07,
+    "full_group_vs_v2_max_abs_difference_MW": 0.0
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_1",
+    "n": 956,
+    "matched_samples": true,
+    "metric_rows_recomputed": 20,
+    "gap_crossing_windows": 0,
+    "label_availability_checked": true,
+    "fixed_parameter_count": 7169,
+    "checkpoint_reload_samples_per_model": 3,
+    "checkpoint_max_abs_difference_MW": 4.768371599794818e-07,
+    "full_group_vs_v2_max_abs_difference_MW": 0.0
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_2",
+    "n": 956,
+    "matched_samples": true,
+    "metric_rows_recomputed": 20,
+    "gap_crossing_windows": 0,
+    "label_availability_checked": true,
+    "fixed_parameter_count": 7169,
+    "checkpoint_reload_samples_per_model": 3,
+    "checkpoint_max_abs_difference_MW": 1.430511474609375e-06,
+    "full_group_vs_v2_max_abs_difference_MW": 0.0
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_3",
+    "n": 1289,
+    "matched_samples": true,
+    "metric_rows_recomputed": 20,
+    "gap_crossing_windows": 0,
+    "label_availability_checked": true,
+    "fixed_parameter_count": 7169,
+    "checkpoint_reload_samples_per_model": 3,
+    "checkpoint_max_abs_difference_MW": 9.5367431640625e-07,
+    "full_group_vs_v2_max_abs_difference_MW": 0.0
+  }
+]

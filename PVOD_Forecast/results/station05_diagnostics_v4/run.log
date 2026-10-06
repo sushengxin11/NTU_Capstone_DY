@@ -1,0 +1,8 @@
+             variable    scope    n  correlation  bias_ERA_minus_LMD       MAE       RMSE
+        temperature_C      all 2400     0.973197           -1.158388  1.703017   2.198445
+         pressure_hPa      all 2400     0.994733          -11.009509 11.009509  11.040316
+        windspeed_mps      all 2400     0.488188            0.362548  1.119683   1.445149
+       irradiance_Wm2      all 2398     0.963012           11.703548 45.039146  85.868830
+       irradiance_Wm2 daylight 1233     0.926000           21.497290 86.226730 119.304413
+irradiance_right4_Wm2      all 2398     0.959681           11.712044 47.770062  89.666156
+Complete: /Users/sushengxin/Desktop/NTU_BLOCKCHAIN/Capstone _Deye/NTU_Capstone_DY/PVOD_Forecast/results/station05_diagnostics_v4

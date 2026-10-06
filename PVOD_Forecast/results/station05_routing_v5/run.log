@@ -1,0 +1,35 @@
+roll_1: routing skipped by validation gate
+roll_2: HGB_hard_0.15
+roll_3: LR_soft
+[
+  {
+    "fold": "roll_1",
+    "routing_enabled": false,
+    "selected": "baseline",
+    "reason": "No validation specialist advantage over baseline HGB"
+  },
+  {
+    "fold": "roll_2",
+    "routing_enabled": true,
+    "expert_model": "HGB",
+    "expert_alpha": 4,
+    "selected": "HGB_hard_0.15",
+    "validation_ramp_RMSE_MW": 6.7613811799450705,
+    "classifier": "HGB",
+    "mode": "hard",
+    "threshold": 0.15,
+    "feasible_routing_candidates": 32
+  },
+  {
+    "fold": "roll_3",
+    "routing_enabled": true,
+    "expert_model": "HGB",
+    "expert_alpha": 4,
+    "selected": "LR_soft",
+    "validation_ramp_RMSE_MW": 6.645398805038657,
+    "classifier": "LR",
+    "mode": "soft",
+    "threshold": null,
+    "feasible_routing_candidates": 32
+  }
+]

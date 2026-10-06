@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "weighted_metric_rows": 546,
+  "routing_metric_rows": 672,
+  "GRU_reloaded": 27,
+  "HGB_reloaded": 9,
+  "classifiers_reloaded": 4,
+  "classification_metric_rows": 8,
+  "max_reload_abs_difference_MW": 3.552713678800501e-15,
+  "baseline_reproduction": [
+    {
+      "run": "roll_1_HGB_a1_seed42",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_1_GRU_a1_seed17",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_1_GRU_a1_seed42",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_1_GRU_a1_seed2026",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_2_HGB_a1_seed42",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_2_GRU_a1_seed17",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_2_GRU_a1_seed42",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_2_GRU_a1_seed2026",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_3_HGB_a1_seed42",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_3_GRU_a1_seed17",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_3_GRU_a1_seed42",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    },
+    {
+      "run": "roll_3_GRU_a1_seed2026",
+      "baseline_max_abs_diff": 3.552713678800501e-15
+    }
+  ],
+  "checks": [
+    "All validation/evaluation MAE and RMSE independently recomputed",
+    "All 36 regression checkpoints reloaded on full validation/evaluation",
+    "Four classifiers and calibration models reloaded",
+    "Training-only thresholds and scalers verified",
+    "Time boundaries and missing-date windows checked",
+    "Validation-only choices and 2% constraints independently reproduced",
+    "Hard, soft, oracle and selected predictions reconstructed"
+  ]
+}

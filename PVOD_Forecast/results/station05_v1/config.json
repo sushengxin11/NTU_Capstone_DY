@@ -1,0 +1,27 @@
+{
+  "station": "station05",
+  "lat": 38.2355,
+  "lon": 114.1236,
+  "horizons_minutes": [
+    15,
+    60
+  ],
+  "history_steps": 16,
+  "train_target_before": "2019-05-15 00:00:00+00:00",
+  "validation_target_before": "2019-05-30 00:00:00+00:00",
+  "test_target_from": "2019-05-30 00:00:00+00:00",
+  "excluded_utc_dates": [
+    "2019-05-31"
+  ],
+  "excluded_pv_rows": 96,
+  "power_unit": "MW",
+  "capacity_MW_assumption": 35.0,
+  "sp_unit": "hPa",
+  "temperature_unit": "degC",
+  "radiation_unit": "W/m2",
+  "weather_alignment": "bilinear space, previous valid hour held <=59min; no future temporal interpolation",
+  "input_availability": "retrospective zero-latency measurements and ERA5 valid-time assumption; ERA5 publication latency not simulated",
+  "nwp": "excluded: no issue time metadata",
+  "daytime_definition": "target LMD total irradiance >20 W/m2 (evaluation only)",
+  "model_selection": "validation RMSE; shared final test held out; single seed pilot"
+}

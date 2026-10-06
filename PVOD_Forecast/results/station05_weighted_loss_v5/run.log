@@ -1,0 +1,117 @@
+roll_1_GRU_a1_seed17: epoch=13 val_RMSE=2.5555 elapsed=0.8s
+roll_1_GRU_a1_seed42: epoch=13 val_RMSE=2.5646 elapsed=0.8s
+roll_1_GRU_a1_seed2026: epoch=8 val_RMSE=2.5724 elapsed=0.6s
+roll_1_GRU_a2_seed17: epoch=8 val_RMSE=2.7050 elapsed=0.6s
+roll_1_GRU_a2_seed42: epoch=8 val_RMSE=2.6782 elapsed=0.6s
+roll_1_GRU_a2_seed2026: epoch=6 val_RMSE=2.6792 elapsed=0.5s
+roll_1_GRU_a4_seed17: epoch=6 val_RMSE=2.8052 elapsed=0.5s
+roll_1_GRU_a4_seed42: epoch=7 val_RMSE=2.7803 elapsed=0.6s
+roll_1_GRU_a4_seed2026: epoch=5 val_RMSE=2.7759 elapsed=0.5s
+roll_2_GRU_a1_seed17: epoch=14 val_RMSE=2.3032 elapsed=1.1s
+roll_2_GRU_a1_seed42: epoch=28 val_RMSE=2.3038 elapsed=1.9s
+roll_2_GRU_a1_seed2026: epoch=16 val_RMSE=2.3117 elapsed=1.2s
+roll_2_GRU_a2_seed17: epoch=14 val_RMSE=2.3751 elapsed=1.1s
+roll_2_GRU_a2_seed42: epoch=15 val_RMSE=2.3860 elapsed=1.2s
+roll_2_GRU_a2_seed2026: epoch=15 val_RMSE=2.4396 elapsed=1.2s
+roll_2_GRU_a4_seed17: epoch=14 val_RMSE=2.5621 elapsed=1.1s
+roll_2_GRU_a4_seed42: epoch=15 val_RMSE=2.5447 elapsed=1.2s
+roll_2_GRU_a4_seed2026: epoch=22 val_RMSE=2.6725 elapsed=1.6s
+roll_3_GRU_a1_seed17: epoch=19 val_RMSE=2.1777 elapsed=1.8s
+roll_3_GRU_a1_seed42: epoch=24 val_RMSE=2.1941 elapsed=2.1s
+roll_3_GRU_a1_seed2026: epoch=25 val_RMSE=2.1840 elapsed=2.0s
+roll_3_GRU_a2_seed17: epoch=13 val_RMSE=2.3545 elapsed=1.3s
+roll_3_GRU_a2_seed42: epoch=21 val_RMSE=2.2959 elapsed=1.9s
+roll_3_GRU_a2_seed2026: epoch=10 val_RMSE=2.4586 elapsed=1.1s
+roll_3_GRU_a4_seed17: epoch=18 val_RMSE=2.4168 elapsed=1.6s
+roll_3_GRU_a4_seed42: epoch=18 val_RMSE=2.3457 elapsed=1.6s
+roll_3_GRU_a4_seed2026: epoch=11 val_RMSE=2.5423 elapsed=1.1s
+{
+  "selection": [
+    {
+      "fold": "roll_1",
+      "model": "HGB",
+      "selected_alpha": 1,
+      "expert_alpha": 1,
+      "validation_ramp_RMSE_MW": 7.683208942449194,
+      "feasible_alphas": [
+        1
+      ]
+    },
+    {
+      "fold": "roll_1",
+      "model": "GRU",
+      "selected_alpha": 1,
+      "expert_alpha": 1,
+      "validation_ramp_RMSE_MW": 9.777178201089793,
+      "feasible_alphas": [
+        1
+      ]
+    },
+    {
+      "fold": "roll_2",
+      "model": "HGB",
+      "selected_alpha": 1,
+      "expert_alpha": 4,
+      "validation_ramp_RMSE_MW": 6.859450393101302,
+      "feasible_alphas": [
+        1
+      ]
+    },
+    {
+      "fold": "roll_2",
+      "model": "GRU",
+      "selected_alpha": 1,
+      "expert_alpha": 4,
+      "validation_ramp_RMSE_MW": 7.797084733218274,
+      "feasible_alphas": [
+        1
+      ]
+    },
+    {
+      "fold": "roll_3",
+      "model": "HGB",
+      "selected_alpha": 1,
+      "expert_alpha": 4,
+      "validation_ramp_RMSE_MW": 6.706007659731414,
+      "feasible_alphas": [
+        1
+      ]
+    },
+    {
+      "fold": "roll_3",
+      "model": "GRU",
+      "selected_alpha": 1,
+      "expert_alpha": 1,
+      "validation_ramp_RMSE_MW": 6.974783615082095,
+      "feasible_alphas": [
+        1
+      ]
+    }
+  ],
+  "routing_gate": [
+    {
+      "fold": "roll_1",
+      "expert_model": "HGB",
+      "expert_alpha": 1,
+      "expert_validation_ramp_RMSE_MW": 7.683208942449194,
+      "baseline_validation_ramp_RMSE_MW": 7.683208942449194,
+      "routing_enabled": false
+    },
+    {
+      "fold": "roll_2",
+      "expert_model": "HGB",
+      "expert_alpha": 4,
+      "expert_validation_ramp_RMSE_MW": 6.230504865319521,
+      "baseline_validation_ramp_RMSE_MW": 6.859450393101302,
+      "routing_enabled": true
+    },
+    {
+      "fold": "roll_3",
+      "expert_model": "HGB",
+      "expert_alpha": 4,
+      "expert_validation_ramp_RMSE_MW": 5.962118224074977,
+      "baseline_validation_ramp_RMSE_MW": 6.706007659731414,
+      "routing_enabled": true
+    }
+  ]
+}

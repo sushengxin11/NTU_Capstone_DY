@@ -1,0 +1,110 @@
+[
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_1",
+    "n": 959,
+    "models": 16,
+    "irradiance_counts": {
+      "night_lowlight": 479,
+      "day_low": 206,
+      "day_medium": 148,
+      "day_high": 126
+    },
+    "ramp_counts": {
+      "night_lowlight": 479,
+      "day_stable": 429,
+      "day_ramp_down": 27,
+      "day_ramp_up": 24
+    }
+  },
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_2",
+    "n": 959,
+    "models": 16,
+    "irradiance_counts": {
+      "night_lowlight": 438,
+      "day_low": 205,
+      "day_high": 170,
+      "day_medium": 146
+    },
+    "ramp_counts": {
+      "day_stable": 473,
+      "night_lowlight": 438,
+      "day_ramp_down": 28,
+      "day_ramp_up": 20
+    }
+  },
+  {
+    "horizon_minutes": 15,
+    "fold": "roll_3",
+    "n": 1295,
+    "models": 16,
+    "irradiance_counts": {
+      "night_lowlight": 588,
+      "day_low": 339,
+      "day_medium": 199,
+      "day_high": 169
+    },
+    "ramp_counts": {
+      "day_stable": 618,
+      "night_lowlight": 588,
+      "day_ramp_down": 46,
+      "day_ramp_up": 43
+    }
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_1",
+    "n": 956,
+    "models": 16,
+    "irradiance_counts": {
+      "night_lowlight": 479,
+      "day_low": 203,
+      "day_medium": 148,
+      "day_high": 126
+    },
+    "ramp_counts": {
+      "night_lowlight": 479,
+      "day_stable": 438,
+      "day_ramp_down": 25,
+      "day_ramp_up": 14
+    }
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_2",
+    "n": 956,
+    "models": 16,
+    "irradiance_counts": {
+      "night_lowlight": 438,
+      "day_low": 205,
+      "day_high": 170,
+      "day_medium": 143
+    },
+    "ramp_counts": {
+      "day_stable": 471,
+      "night_lowlight": 438,
+      "day_ramp_up": 26,
+      "day_ramp_down": 21
+    }
+  },
+  {
+    "horizon_minutes": 60,
+    "fold": "roll_3",
+    "n": 1289,
+    "models": 16,
+    "irradiance_counts": {
+      "night_lowlight": 588,
+      "day_low": 339,
+      "day_medium": 194,
+      "day_high": 168
+    },
+    "ramp_counts": {
+      "day_stable": 618,
+      "night_lowlight": 588,
+      "day_ramp_down": 47,
+      "day_ramp_up": 36
+    }
+  }
+]

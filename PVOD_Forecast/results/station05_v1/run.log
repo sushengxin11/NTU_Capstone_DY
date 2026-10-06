@@ -1,0 +1,29 @@
+Preparing aligned datasets...
+15min HGB_history done
+15min HGB_local done
+15min HGB_local_surface done
+15min HGB_local_surface_pressure done
+15min MLP validation-selected epoch=26, RMSE=1.9754MW
+60min HGB_history done
+60min HGB_local done
+60min HGB_local_surface done
+60min HGB_local_surface_pressure done
+60min MLP validation-selected epoch=16, RMSE=2.4709MW
+ horizon_minutes                      model split scope    n   MAE_MW  RMSE_MW       R2  nRMSE_capacity_pct
+              15                persistence  test   all 1296 1.049797 2.468031 0.923418            7.051516
+              15      previous_day_fallback  test   all 1296 2.363149 5.118692 0.670585           14.624836
+              15                HGB_history  test   all 1296 0.899612 2.224035 0.937812            6.354384
+              15                  HGB_local  test   all 1296 0.876450 2.199267 0.939189            6.283621
+              15          HGB_local_surface  test   all 1296 0.863945 2.164039 0.941122            6.182970
+              15 HGB_local_surface_pressure  test   all 1296 0.870654 2.165788 0.941026            6.187967
+              15                 Ridge_full  test   all 1296 1.008009 2.319693 0.932347            6.627693
+              15                   MLP_full  test   all 1296 1.429039 2.613516 0.914123            7.467189
+              60                persistence  test   all 1293 2.509006 4.479231 0.746923           12.797802
+              60      previous_day_fallback  test   all 1293 2.460717 5.189816 0.660258           14.828045
+              60                HGB_history  test   all 1293 1.821361 3.542102 0.841741           10.120291
+              60                  HGB_local  test   all 1293 1.715060 3.294852 0.863064            9.413863
+              60          HGB_local_surface  test   all 1293 1.566328 3.118329 0.877344            8.909511
+              60 HGB_local_surface_pressure  test   all 1293 1.556084 3.113975 0.877686            8.897070
+              60                 Ridge_full  test   all 1293 1.910407 3.559072 0.840221           10.168777
+              60                   MLP_full  test   all 1293 2.181036 3.846545 0.813368           10.990129
+Completed: /Users/sushengxin/Desktop/NTU_BLOCKCHAIN/Capstone _Deye/NTU_Capstone_DY/PVOD_Forecast/results/station05_v1

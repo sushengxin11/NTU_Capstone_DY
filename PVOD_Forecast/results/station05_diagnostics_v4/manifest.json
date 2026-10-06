@@ -1,0 +1,140 @@
+{
+  "original_sources": [
+    {
+      "file": "PVODdatasets_v1.0/station05.csv",
+      "bytes": 995776,
+      "sha256": "457ff923e93d29a43f4882080499e0a75c2e22a093899664a23398f921adf126"
+    },
+    {
+      "file": "PVODdatasets_v1.0/metadata.csv",
+      "bytes": 7222,
+      "sha256": "d148eaeab2000223684449dc83a1d77843668a81e3ad483e4a7c9cda06023544"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_April.nc",
+      "bytes": 303627,
+      "sha256": "c13c2044705d2ed39e2708881f8d8bb2b04dfe28a8134a6d588d70ea34852b75"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_June.nc",
+      "bytes": 302946,
+      "sha256": "3123a2ee75593f4236165f041fff993b0b5d43328ec06997cc791cde31e56752"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_March.nc",
+      "bytes": 311657,
+      "sha256": "c4ffb372b7aed8d2110f84675569133e74b63117c72c7f2ae3714648df6b13c0"
+    },
+    {
+      "file": "ERA5_data/pressure_levels/2019_May.nc",
+      "bytes": 304503,
+      "sha256": "5cb143e78ade955220c02db8a2c5fd74ecacb1dae9c617726d3c40fc8fcd05ce"
+    },
+    {
+      "file": "ERA5_data/single_levels_instant/1_data_stream-oper_stepType-instant.nc",
+      "bytes": 340648,
+      "sha256": "356276e6863929444f31adcd48250391de15465aa4c6aa995133c3bb63972285"
+    },
+    {
+      "file": "ERA5_data/single_levels_instant/2_data_stream-oper_stepType-instant.nc",
+      "bytes": 341626,
+      "sha256": "94d412d1e1df81c23aad0fc15b66de166e0d47bee1b16a3908379b4c0e67e68b"
+    },
+    {
+      "file": "ERA5_data/single_levels_radiation/data_stream-oper_stepType-accum.nc",
+      "bytes": 300222,
+      "sha256": "c19c62f191cc0abfee501b180cf8390dd572106ad65631d25848f1fb01f6b483"
+    }
+  ],
+  "inputs": [
+    {
+      "path": "PVOD_Forecast/results/station05_v1/station05_aligned_15min.csv",
+      "sha256": "c53b8293059b62ac8aecaaab533fc0ba726d09a20067968330a1abe828f68539"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_v1/era5_station05_hourly.csv",
+      "sha256": "6ac30a806fbacc2f55576f5412be0e0b2fa4e267c42ee56ffdd6506fbb9b4d08"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/manifest.json",
+      "sha256": "d9c75bea9b691235896a5fd511ca4196bee83ea0bbd508340f1a3f1573825ef4"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/manifest.json",
+      "sha256": "5c38a97e15f027d74157c919dc1412425b9d104d98084fff96b2952d7bbabfa6"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/roll_1_15min_predictions.csv",
+      "sha256": "e7c0366f188edfe69d08403663a6289e75edea47322096ac42b42665a5f9d989"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/roll_1_60min_predictions.csv",
+      "sha256": "79a6e75ed12a42db749aec94d7000fddcfcffd75f5b4ca6f405aa5fe36481a8b"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/roll_2_15min_predictions.csv",
+      "sha256": "c23824d94f982cc1e03655a92216ba77b6241965b9b833fa0b773245217d1963"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/roll_2_60min_predictions.csv",
+      "sha256": "fbaa053e1656179bf146266584bf4827bb52cc9dc047294702cae721b8505784"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/roll_3_15min_predictions.csv",
+      "sha256": "bb92859dfcbfb38550df5d06aa3b794f43aece9b03c0eedcff9e7ca1696f2a7a"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_sequence_v2/roll_3_60min_predictions.csv",
+      "sha256": "677ee291133defbf414a60e597f3246b6b5f0a094243242d3aaf1f8127e50f1c"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_1_15min_predictions.csv",
+      "sha256": "98552976eb4901a77109375a000fbe8db9bc13cd18478a660534f151029d1a7c"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_1_60min_predictions.csv",
+      "sha256": "f13d4c83dec310050c79a5c294ba784f4ba07a4f756deb10b8caa67270bc38b5"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_2_15min_predictions.csv",
+      "sha256": "c92e1c3b20d8ddc8dd98216bc6919a294694a76a330a44480568726fe63d4bfe"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_2_60min_predictions.csv",
+      "sha256": "37c500228a93270d7b023c931e117aefdee3803d96d43a11700cd8d050fec2e5"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_3_15min_predictions.csv",
+      "sha256": "e1aa7c2aad65ce0b5d99bc2d7d484b8b83b687d02eec985bb80eb7e9b3a815d8"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_3_60min_predictions.csv",
+      "sha256": "193ee4e7a725a5739d403a697208748336a1ce47b11ad9fd085138f6f1636656"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_1_15min_split.csv",
+      "sha256": "69532bb64653da2e7bc73bf2bacd2e6f24ff4339c1799896391c5126f39a1c8a"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_1_60min_split.csv",
+      "sha256": "e4696d419a01615b8e00cd8255fb0ed003181e52235f42b487fc9f86ac986379"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_2_15min_split.csv",
+      "sha256": "53e5c2bd445e9a359080a4765141cc77e426ce77db668b7e8783b50878cb9725"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_2_60min_split.csv",
+      "sha256": "0a6789b19f3c46fcae9f4a103e703819d520f9ed62d08615ddf87147835650fd"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_3_15min_split.csv",
+      "sha256": "1e7d3738ec7cec6633b0fa27d61aa276e8883c50a4b8e3e09c735b0bd960c461"
+    },
+    {
+      "path": "PVOD_Forecast/results/station05_weather_ablation_v3/roll_3_60min_split.csv",
+      "sha256": "02a2f98f378e81a982c84a6ce95f99cc2c2d458ee688748ee6effceeacc9f684"
+    }
+  ],
+  "script_sha256": "84017577079a23806c6085f8ce4c45c52418a1afcac0048deb2091a24b62594c"
+}

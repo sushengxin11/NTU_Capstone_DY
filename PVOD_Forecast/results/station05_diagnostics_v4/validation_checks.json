@@ -1,0 +1,9 @@
+{
+  "groups": 6,
+  "scene_metric_rows": 768,
+  "metrics_recomputed": true,
+  "scene_partition_counts_reconciled": true,
+  "full_GRU_v2_v3_predictions_equal": true,
+  "all_predictions_finite": true,
+  "thresholds_use_training_only": true
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "run": "roll_1_HGB_a1_seed42",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_1_GRU_a1_seed17",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_1_GRU_a1_seed42",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_1_GRU_a1_seed2026",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_2_HGB_a1_seed42",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_2_GRU_a1_seed17",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_2_GRU_a1_seed42",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_2_GRU_a1_seed2026",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_3_HGB_a1_seed42",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_3_GRU_a1_seed17",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_3_GRU_a1_seed42",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  },
+  {
+    "run": "roll_3_GRU_a1_seed2026",
+    "baseline_max_abs_diff": 3.552713678800501e-15
+  }
+]

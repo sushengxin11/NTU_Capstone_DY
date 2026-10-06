@@ -1,0 +1,17 @@
+fold,split,selected,group,n,selected_SSE,baseline_SSE,delta_SSE,group_definition
+roll_2,validation,HGB_hard_0.15,TP,5,48.22011337922716,96.30834583570666,-48.0882324564795,actual hard-route confusion group
+roll_2,validation,HGB_hard_0.15,FP,8,156.99883401847018,167.47719192283247,-10.47835790436228,actual hard-route confusion group
+roll_2,validation,HGB_hard_0.15,FN,31,1597.565803199327,1597.565803199327,0.0,actual hard-route confusion group
+roll_2,validation,HGB_hard_0.15,TN,912,3374.690780343151,3374.690780343151,0.0,actual hard-route confusion group
+roll_2,evaluation,HGB_hard_0.15,TP,7,873.9269811957404,900.4204576813082,-26.49347648556781,actual hard-route confusion group
+roll_2,evaluation,HGB_hard_0.15,FP,19,213.60091567378228,239.2564374428365,-25.655521769054175,actual hard-route confusion group
+roll_2,evaluation,HGB_hard_0.15,FN,40,1658.1628741444467,1658.1628741444467,0.0,actual hard-route confusion group
+roll_2,evaluation,HGB_hard_0.15,TN,890,2717.722424343988,2717.722424343988,0.0,actual hard-route confusion group
+roll_3,validation,LR_soft,TP,0,0.0,0.0,0.0,threshold 0.5 diagnostic only for soft route
+roll_3,validation,LR_soft,FP,0,0.0,0.0,0.0,threshold 0.5 diagnostic only for soft route
+roll_3,validation,LR_soft,FN,62,2738.002167236571,2788.173401407336,-50.17123417076401,threshold 0.5 diagnostic only for soft route
+roll_3,validation,LR_soft,TN,1374,5057.823141860243,5004.33044634469,53.49269551555285,threshold 0.5 diagnostic only for soft route
+roll_3,evaluation,LR_soft,TP,0,0.0,0.0,0.0,threshold 0.5 diagnostic only for soft route
+roll_3,evaluation,LR_soft,FP,0,0.0,0.0,0.0,threshold 0.5 diagnostic only for soft route
+roll_3,evaluation,LR_soft,FN,83,7692.565556742882,7836.674180487298,-144.10862374441766,threshold 0.5 diagnostic only for soft route
+roll_3,evaluation,LR_soft,TN,1206,4710.859944528151,4710.063011840265,0.796932687885131,threshold 0.5 diagnostic only for soft route
