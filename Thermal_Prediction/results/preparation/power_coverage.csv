@@ -1,0 +1,13 @@
+split,power_band,rows,sessions
+test,idle_or_low_flow,90,5
+test,low,2562,7
+test,mid,3058,6
+test,high,2637,5
+train,idle_or_low_flow,8,7
+train,low,8303,14
+train,mid,8302,14
+train,high,8303,13
+validation,idle_or_low_flow,3,3
+validation,low,5015,4
+validation,mid,1805,4
+validation,high,3088,4

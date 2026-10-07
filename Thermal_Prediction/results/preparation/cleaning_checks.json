@@ -1,0 +1,10 @@
+{
+  "valid_rows": 43174,
+  "removed_invalid_rows": 8647,
+  "valid_sessions": 25,
+  "valid_duplicate_timestamps": 0,
+  "target_interpolation": false,
+  "continuous_segments": 31,
+  "potential_60s_history_60s_target_windows_at_1s": 39822,
+  "sessions_with_potential_windows": 25
+}

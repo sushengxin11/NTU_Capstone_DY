@@ -1,0 +1,3 @@
+architecture,best_epoch,validation_macro_rmse_60_c,selected
+"(16, 16)",16,0.40777526386284363,False
+"(32, 32)",13,0.3945595228218559,True

@@ -1,0 +1,204 @@
+{
+  "status": "preparation_only_not_trained",
+  "source": "https://doi.org/10.48804/8KPDTW",
+  "license": "CC-BY-4.0",
+  "archive_md5_verified": true,
+  "archive_sha256": "97bcf4b914cd7312a08be49d53ae704a2450d39faa64d0c94d1294cd8eb92016",
+  "cleaning": {
+    "valid_rows": 43174,
+    "removed_invalid_rows": 8647,
+    "valid_sessions": 25,
+    "valid_duplicate_timestamps": 0,
+    "target_interpolation": false,
+    "continuous_segments": 31,
+    "potential_60s_history_60s_target_windows_at_1s": 39822,
+    "sessions_with_potential_windows": 25
+  },
+  "fast_sessions": 25,
+  "devices": 2,
+  "rows": 51821,
+  "temperature_range_c": [
+    25.0,
+    63.25
+  ],
+  "dc_power_range_kw": [
+    0.0,
+    230.99238591229826
+  ],
+  "ambient_range_c": [
+    0.5,
+    32.0
+  ],
+  "required_nonfinite_entries": 34559,
+  "duplicate_timestamps": 0,
+  "gaps_over_2s": 3,
+  "negative_dc_power_rows": 0,
+  "provisional_split_counts": {
+    "train": 14,
+    "test": 7,
+    "validation": 4
+  },
+  "tud_downloaded_members": 51,
+  "tud_with_target_columns": 23,
+  "slow_session_files": 109,
+  "scope": "BMS maximum battery pack temperature, not module/heatsink temperature",
+  "limitations": [
+    "Cooling states not yet established",
+    "BMS dissipation signal semantics and active cooling need further review",
+    "Low/mid/high bins not frozen; later based on training data only",
+    "No future real DC power permitted in online inference",
+    "Processed publisher data; CAN decoding and interpolation not independently reproduced"
+  ],
+  "files": [
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-08-10_fast_1.csv",
+      "bytes": 432267,
+      "sha256": "1d7cad1cc622dbd571c02c024094e8e9534bdfdb1f0b87a58eda7ab5e3bafa8c",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-08-10_fast_2.csv",
+      "bytes": 429296,
+      "sha256": "7645985eb1c62a5c051fca7218ce235387f72f7723d7031009c69c289e20d837",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-09-01_fast_1.csv",
+      "bytes": 483605,
+      "sha256": "5dde5796a1278df604c2e83ad38a09129c2898ec65cd81dcd091a2d56fcd64e3",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-09-03_fast_1.csv",
+      "bytes": 688228,
+      "sha256": "0dab914e49e85ef05f1501d1286d33f661a3daa44460734154ba841273fac217",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-09-03_fast_2.csv",
+      "bytes": 226238,
+      "sha256": "64185946fd3116752942ffdddf0c3151a66433b11a1a0fa7310b68688499cfbd",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-11-17_fast_1.csv",
+      "bytes": 156485,
+      "sha256": "83c64909e004dd69ffbb2a73d71e43931882d3cd84517461b9033972102e34f6",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-12-07_fast_1.csv",
+      "bytes": 173074,
+      "sha256": "d16f841d636478dc2959b8c96f332c598b4fa3ce3bfeb3802269dee1449b7869",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV1_2024-12-08_fast_1.csv",
+      "bytes": 610801,
+      "sha256": "969525f720a0478d5f3509ad0a49a37bdec04e8f30c0f3c432c80bcd83c11bae",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-05-18_fast_1.csv",
+      "bytes": 398052,
+      "sha256": "274ecfdae621d2ada20066b80583b1ee5845ea4da7b571b2e1e041bb09d86a0e",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-05-19_fast_1.csv",
+      "bytes": 476333,
+      "sha256": "55e31ea3c71f6f842a137378492a18d32caea1d950c14212b838d067b0e79688",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-05-21_fast_1.csv",
+      "bytes": 476714,
+      "sha256": "3cc0788903c50f627199c3f4fed8399a5764d56fe6edd8fa92ce5d6f5432a177",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-07-05_fast_1.csv",
+      "bytes": 366431,
+      "sha256": "07445c541620a072cca08531fc72028cbbdb5bb981e35c98a0825d15c13ec22b",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-08-19_fast_1.csv",
+      "bytes": 541607,
+      "sha256": "d6e85291dbb17275bf2f1d26de6eae659008a1e8814903a94715e8dcc372459e",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-08-22_fast_1.csv",
+      "bytes": 752926,
+      "sha256": "b3da6f2444aeb09c29922463fa6008f2a9a6432abbc4a4706e23ff91a36d68a5",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-08-31_fast_1.csv",
+      "bytes": 318264,
+      "sha256": "957bb7b6aa3ee23f731762ca2a90929a669011962ec23808a7588d480946ed1d",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-09-07_fast_1.csv",
+      "bytes": 520656,
+      "sha256": "00e97e0d8a7ae0b016a6af7a0ee02778d9a488d6c326ca98057ae45c0e9c3755",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-09-10_fast_1.csv",
+      "bytes": 561139,
+      "sha256": "b36e0f138ae56c8c5f801714a39d91880584ef9b13369b5a77c59e8a57756efe",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-09-29_fast_1.csv",
+      "bytes": 934617,
+      "sha256": "4d07d918c55118be27efa4ee6139532d5f7a3977c57e9038a202cc0d21c35bc8",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-10-01_fast_1.csv",
+      "bytes": 750199,
+      "sha256": "12c6917f8d13b28e3fec29b61dea4dfc0a12f0a1fd9610f3f2bbc6e001a9afab",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-11-04_fast_1.csv",
+      "bytes": 738735,
+      "sha256": "40b31ece14865b5ac7d2b7c15b3f6e9517753e2ee34f7eb3f6f2cc9edfb35309",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2024-11-24_fast_1.csv",
+      "bytes": 123535,
+      "sha256": "21c33459bed683a90593e121521d147eff4da8ab70d094728076e0fc567c3430",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2025-02-16_fast_1.csv",
+      "bytes": 323023,
+      "sha256": "e3e943935257aa362ac2c7a67b9122adaee2f0a6c4b92024e5894935db82ec39",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2025-02-16_fast_2.csv",
+      "bytes": 380320,
+      "sha256": "357ee435108bab6a3c13c057cbbe13fe65082519193f171ab39a2dabbde150e5",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2025-04-05_fast_1.csv",
+      "bytes": 332323,
+      "sha256": "ee55f6bac66d873eec0d913dbf1e398f938651a8dad36ff1b971c7b0f51cd294",
+      "zip_crc_verified": true
+    },
+    {
+      "member": "BEV energy dynamic data_V2/fast charging sessions/BEV2_2025-04-06_fast_1.csv",
+      "bytes": 353894,
+      "sha256": "1aa1d98bc09e17d05e4d1bed7f236958f6001409d701526f1e8179a95aa9ccfc",
+      "zip_crc_verified": true
+    }
+  ]
+}

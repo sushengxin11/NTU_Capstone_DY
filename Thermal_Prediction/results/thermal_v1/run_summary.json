@@ -1,0 +1,23 @@
+{
+  "python": "3.12.14",
+  "selected_architecture": [
+    32,
+    32
+  ],
+  "selected_epoch": 13,
+  "rc_a": 0.002619888999392442,
+  "rc_b": 0.00018137844928334143,
+  "effective_tau_s": 5513.334158226505,
+  "windows_by_split": {
+    "train": 2317,
+    "validation": 923,
+    "test": 753
+  },
+  "sessions_by_split": {
+    "test": 7,
+    "train": 14,
+    "validation": 4
+  },
+  "test_is_seen_devices_later_sessions": true,
+  "runtime_scope": "public BMS max battery temperature; not charger module safety certification"
+}

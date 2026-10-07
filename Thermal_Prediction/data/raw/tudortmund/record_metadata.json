@@ -1,0 +1,227 @@
+{
+  "created": "2024-11-11T09:43:39.335009+00:00",
+  "modified": "2024-11-11T09:43:39.544071+00:00",
+  "id": 14065331,
+  "conceptrecid": "10184776",
+  "doi": "10.5281/zenodo.14065331",
+  "conceptdoi": "10.5281/zenodo.10184776",
+  "doi_url": "https://doi.org/10.5281/zenodo.14065331",
+  "metadata": {
+    "title": "Bidirectional and Unidirectional Charging Profiles of Electric Vehicles",
+    "doi": "10.5281/zenodo.14065331",
+    "publication_date": "2024-11-11",
+    "description": "<p>This dataset contains bidirectional and unidirectional charging profiles of Electric Vehicles (EVs) measured in laboratory environment at the Smart Grid Technology Lab of ie&sup3; institute at TU Dortmund University. The dataset not only considers charging power and current but also harmonics/interharmonics emission of EV charging in both static and dynamic scenarios. Thus, it provides a solid foundation for the development of advanced EV charging algorithms and model validation. Raw data are available in csv format from the file <em>dataset_raw.zip</em> and a selection of merged measurements is provided in the file <em>dataset_merged.zip</em>.</p>\n<p>The following commercially available EV models are considered:</p>\n<ul>\n<li>Opel Corsa-e (2020)</li>\n<li>Fiat 500e (2022)</li>\n<li>Honda-e Advance (bidirectional, 2020)</li>\n<li>Nissan Leaf (bidirectional, 2020)</li>\n<li>VW ID.4 (2020)</li>\n<li>Hyundai Ioniq 5 (2021)</li>\n<li>Mitsubishi Eclipse Cross PHEV (bidirectional, 2022)</li>\n<li>Tesla Model Y SR (2022)</li>\n</ul>\n<p>The dataset is part of the deliverable D8.1 of DriVe2X project and is accompanied by a report including a description about data acquisition and measurement setup. The report is available from the project website's resources section. A more in-depth description of the tests and exemplary analysis is currently being prepared for publication.</p>\n<p><strong>References</strong></p>\n<ul>\n<li>DriVe2X project website: <a href=\"https://drive2x.eu/\">Link</a></li>\n<li>CORDIS website: <a href=\"https://cordis.europa.eu/project/id/101056934\">Link</a></li>\n<li>ie&sup3; institute: <a href=\"https://ie3.etit.tu-dortmund.de/\">Link</a></li>\n<li>Smart Grid Technology Lab: <a href=\"http://sgtl.et.tu-dortmund.de/\">Link</a></li>\n</ul>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Esser, Marcel",
+        "affiliation": "TU Dortmund University",
+        "orcid": "0000-0001-9364-1576"
+      },
+      {
+        "name": "Spina, Alfio",
+        "affiliation": "TU Dortmund University",
+        "orcid": "0000-0001-7764-6123"
+      },
+      {
+        "name": "Rehtanz, Christian",
+        "affiliation": "TU Dortmund University",
+        "orcid": "0000-0002-8134-6841"
+      }
+    ],
+    "contributors": [
+      {
+        "name": "Esser, Marcel",
+        "affiliation": "TU Dortmund University",
+        "type": "DataManager",
+        "orcid": "0000-0001-9364-1576"
+      },
+      {
+        "name": "Spina, Alfio",
+        "affiliation": "TU Dortmund University",
+        "type": "Editor",
+        "orcid": "0000-0001-7764-6123"
+      },
+      {
+        "name": "Masuch, Marius",
+        "affiliation": "TU Dortmund University",
+        "type": "Editor",
+        "orcid": "0009-0007-7071-5334"
+      },
+      {
+        "name": "Steltig, Henrik",
+        "affiliation": "TU Dortmund University",
+        "type": "DataCollector"
+      },
+      {
+        "name": "Grun, Dominic",
+        "affiliation": "TU Dortmund University",
+        "type": "DataCollector"
+      },
+      {
+        "name": "Kannan, Rucshan",
+        "affiliation": "TU Dortmund University",
+        "type": "DataCollector"
+      },
+      {
+        "name": "Rehtanz, Christian",
+        "affiliation": "TU Dortmund University",
+        "type": "Supervisor",
+        "orcid": "0000-0002-8134-6841"
+      }
+    ],
+    "keywords": [
+      "Electric Vehicle",
+      "Bidirectional",
+      "V2X",
+      "V2G",
+      "Charging",
+      "Charging Profile",
+      "Charging Curve",
+      "EV"
+    ],
+    "dates": [
+      {
+        "type": "collected",
+        "description": "Collection of Data",
+        "start": "2023-07",
+        "end": "2023-11"
+      }
+    ],
+    "version": "2.0.0",
+    "language": "eng",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "grants": [
+      {
+        "code": "101056934",
+        "internal_id": "019w4f821::101056934",
+        "funder": {
+          "name": "European Union"
+        },
+        "title": "Horizon Europe 2ZERO",
+        "url": "https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL5-2021-D5-01-03/en"
+      }
+    ],
+    "communities": [
+      {
+        "id": "eu"
+      },
+      {
+        "id": "drive2x"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 1,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "10184776"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Bidirectional and Unidirectional Charging Profiles of Electric Vehicles",
+  "links": {
+    "self": "https://zenodo.org/api/records/14065331",
+    "self_html": "https://zenodo.org/records/14065331",
+    "preview_html": "https://zenodo.org/records/14065331?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.14065331",
+    "self_doi": "https://doi.org/10.5281/zenodo.14065331",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14065331",
+    "reserve_doi": "https://zenodo.org/api/records/14065331/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/10184776",
+    "parent_html": "https://zenodo.org/records/10184776",
+    "parent_doi": "https://doi.org/10.5281/zenodo.10184776",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10184776",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14065331/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14065331/sequence/default",
+    "files": "https://zenodo.org/api/records/14065331/files",
+    "media_files": "https://zenodo.org/api/records/14065331/media-files",
+    "archive": "https://zenodo.org/api/records/14065331/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14065331/media-files-archive",
+    "latest": "https://zenodo.org/api/records/14065331/versions/latest",
+    "latest_html": "https://zenodo.org/records/14065331/latest",
+    "versions": "https://zenodo.org/api/records/14065331/versions",
+    "draft": "https://zenodo.org/api/records/14065331/draft",
+    "access_links": "https://zenodo.org/api/records/14065331/access/links",
+    "access_grants": "https://zenodo.org/api/records/14065331/access/grants",
+    "access_users": "https://zenodo.org/api/records/14065331/access/users",
+    "access_request": "https://zenodo.org/api/records/14065331/access/request",
+    "access": "https://zenodo.org/api/records/14065331/access",
+    "communities": "https://zenodo.org/api/records/14065331/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14065331/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/14065331/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/14065331/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/14065331/quota-increase",
+    "requests": "https://zenodo.org/api/records/14065331/requests"
+  },
+  "updated": "2024-11-11T09:43:39.544071+00:00",
+  "recid": "14065331",
+  "revision": 4,
+  "files": [
+    {
+      "id": "cae97e23-5756-4875-8506-63119c5341e7",
+      "key": "dataset_raw.zip",
+      "size": 389787805,
+      "checksum": "md5:dbb1ee142663c9e983714772df0f237d",
+      "links": {
+        "self": "https://zenodo.org/api/records/14065331/files/dataset_raw.zip/content"
+      }
+    },
+    {
+      "id": "91134140-8174-4b01-9618-c00238f63de9",
+      "key": "dataset_merged.zip",
+      "size": 207735184,
+      "checksum": "md5:8459a973f9c196a4f7daa3faf1ee148e",
+      "links": {
+        "self": "https://zenodo.org/api/records/14065331/files/dataset_merged.zip/content"
+      }
+    },
+    {
+      "id": "a2fd6390-7cf1-4ad7-a723-548081e91ac6",
+      "key": "measurements.csv",
+      "size": 20133,
+      "checksum": "md5:332378d8e25b2edf808f3f05a610fdc1",
+      "links": {
+        "self": "https://zenodo.org/api/records/14065331/files/measurements.csv/content"
+      }
+    },
+    {
+      "id": "44fe8478-eaec-4b33-b554-2fee9049213e",
+      "key": "parameters.csv",
+      "size": 76991,
+      "checksum": "md5:55a479a1a34114a81da6bbc233cda419",
+      "links": {
+        "self": "https://zenodo.org/api/records/14065331/files/parameters.csv/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1030588"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 2814,
+    "unique_downloads": 1810,
+    "views": 2282,
+    "unique_views": 2010,
+    "version_downloads": 2570,
+    "version_unique_downloads": 1572,
+    "version_unique_views": 1494,
+    "version_views": 1708
+  },
+  "state": "done",
+  "submitted": true
+}

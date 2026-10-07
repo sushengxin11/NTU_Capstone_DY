@@ -1,0 +1,10 @@
+{
+  "checks_passed": true,
+  "rows": 43174,
+  "sessions": 25,
+  "valid_time_keys_unique": true,
+  "split_sessions_unique": true,
+  "same_vehicle_same_day_single_split": true,
+  "required_signals_complete": true,
+  "model_training_performed": false
+}

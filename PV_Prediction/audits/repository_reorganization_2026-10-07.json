@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-07",
+  "path_mapping": {
+    "DKASC_Analyze": "PV_Prediction/DKASC_Analyze",
+    "ERA5_Analyze": "PV_Prediction/ERA5_Analyze",
+    "PVOD_Forecast": "PV_Prediction/PVOD_Forecast",
+    "ERA5_data": "PV_Prediction/data/ERA5_data",
+    "PVODdatasets_v1.0": "PV_Prediction/data/PVODdatasets_v1.0",
+    "docs/充电热预测数据获取与实验计划_2026-10-05.md": "Thermal_Prediction/reports/充电热预测数据获取与实验计划_2026-10-05.md",
+    "docs/项目现状与后续交付计划_2026-10-05.md": "PV_Prediction/reports/项目现状与后续交付计划_2026-10-05.md",
+    "docs/station05首轮光伏预测实验结果_2026-10-05.md": "PV_Prediction/reports/station05首轮光伏预测实验结果_2026-10-05.md",
+    "docs/station05同一GRU天气消融实验结果_2026-10-05.md": "PV_Prediction/reports/station05同一GRU天气消融实验结果_2026-10-05.md",
+    "docs/station05时序网络与滚动验证实验结果_2026-10-05.md": "PV_Prediction/reports/station05时序网络与滚动验证实验结果_2026-10-05.md",
+    "docs/PVOD数据核查_2026-10-05.json": "PV_Prediction/audits/PVOD数据核查_2026-10-05.json",
+    "docs/充电温度与功率工况最小实验计划_2026-10-07.md": "Thermal_Prediction/reports/充电温度与功率工况最小实验计划_2026-10-07.md",
+    "docs/ERA5复核汇总_2026-10-05.json": "PV_Prediction/audits/ERA5复核汇总_2026-10-05.json",
+    "docs/PVOD数据适用性与剩余数据缺口_2026-10-05.md": "PV_Prediction/reports/PVOD数据适用性与剩余数据缺口_2026-10-05.md",
+    "docs/ERA5文件读取核查_2026-10-05.json": "PV_Prediction/audits/ERA5文件读取核查_2026-10-05.json",
+    "docs/充电热实验数据准备结果_2026-10-07.md": "Thermal_Prediction/reports/充电热实验数据准备结果_2026-10-07.md",
+    "docs/station05突变加权与分类路由实验结果_2026-10-05.md": "PV_Prediction/reports/station05突变加权与分类路由实验结果_2026-10-05.md",
+    "docs/充电温度与功率工况实验结果_2026-10-07.md": "Thermal_Prediction/reports/充电温度与功率工况实验结果_2026-10-07.md",
+    "docs/audit_pvod_data.py": "PV_Prediction/src/audit_pvod_data.py",
+    "docs/突变路由与加权损失研究及实验建议_2026-10-05.md": "PV_Prediction/reports/突变路由与加权损失研究及实验建议_2026-10-05.md",
+    "docs/station05天气一致性与场景误差诊断_2026-10-05.md": "PV_Prediction/reports/station05天气一致性与场景误差诊断_2026-10-05.md",
+    "DKASC_Analyze/README.md": "PV_Prediction/reports/DKASC光伏天气分析报告.md",
+    "ERA5_Analyze/README.md": "PV_Prediction/reports/ERA5初步分析报告.md",
+    "PVOD_Forecast/artifacts/station05_feature_analysis_report_2019-04.md": "PV_Prediction/reports/station05_feature_analysis_report_2019-04.md",
+    "PVOD_Forecast/artifacts/station05_analysis_summary_2019-04.txt": "PV_Prediction/reports/station05_analysis_summary_2019-04.txt"
+  },
+  "note": "Historical source hashes and saved metric values are preserved; relocation changes paths, not experiments.",
+  "validation": {
+    "local_markdown_links": "passed",
+    "thermal_saved_models_and_four_metric_tables": "passed",
+    "thermal_history_demo": "passed",
+    "pv_v5_saved_models_and_1218_regression_metric_rows": "passed",
+    "python_source_compilation": "passed",
+    "historical_source_manifest_paths": "resolved by read-time data prefix; hashes preserved"
+  }
+}

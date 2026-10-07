@@ -1,0 +1,147 @@
+{
+  "source": "https://zenodo.org/api/records/14065331/files/dataset_raw.zip/content",
+  "record": "https://zenodo.org/records/14065331",
+  "license": "CC-BY-4.0",
+  "scope": "raw_monitor candidate subset",
+  "whole_archive_downloaded": false,
+  "files": [
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V1G/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_1_202311021527/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_1_202311021527_EV-Monitor.csv",
+      "bytes": 840470,
+      "sha256": "fa7bd378609d8a36b0464cd1f4e53f986b1f0436f6c50d1e9e1883178e552e06",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V1G/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_2_202311081432/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_2_202311081432_EV-Monitor.csv",
+      "bytes": 933750,
+      "sha256": "142356cfee963573b3683d780e103a61f1a7db20b9e3f79e9f3c67780caacfd6",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V1G/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_3_202311081527/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_3_202311081527_EV-Monitor.csv",
+      "bytes": 1023464,
+      "sha256": "0109bb84bc31c32ae7c582c842d243bcd3b4c8c278df59e6fbcb7680dd05e966",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_10_202311021032/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_10_202311021032_EV-Monitor.csv",
+      "bytes": 843255,
+      "sha256": "4b4547bb68ec97432e76f51f3fd8c975c37bfc0d987f2e49e12fa151ba627997",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_11_202311021132/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_11_202311021132_EV-Monitor.csv",
+      "bytes": 830220,
+      "sha256": "2c4060137acb2be1affc380ff0d04193b0cad00e0b00fd6656563dbd622e2464",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_12_202311021321/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_12_202311021321_EV-Monitor.csv",
+      "bytes": 737121,
+      "sha256": "84f8b9218a310542f186607e8c330d4584b298b188c3fac3ab31a9292305d97d",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_13_202311021431/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_13_202311021431_EV-Monitor.csv",
+      "bytes": 982394,
+      "sha256": "e81ca1d1a3c28049db2d69844f2980574f9e158fd8fc645a6abbd5d4b7a967ce",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_1_202310231622/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_1_202310231622_EV-Monitor.csv",
+      "bytes": 929442,
+      "sha256": "43d0eba9b67847acbb4334b1d0410a6bbe1aa6902749af9142c0772a435b46f2",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_2_202310260832/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_2_202310260832_EV-Monitor.csv",
+      "bytes": 2046928,
+      "sha256": "baa017369fa9816a1ae1f21266fd8c123dbc43733fa925d2375f1ab28bad0ab1",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_3_202310261030/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_3_202310261030_EV-Monitor.csv",
+      "bytes": 1022421,
+      "sha256": "c2a95db175aa504e05b9fe0254606bbb73780f8355024f5fda1c2f6e7a7d14e7",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_4_202310261129/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_4_202310261129_EV-Monitor.csv",
+      "bytes": 918960,
+      "sha256": "2c8b7fac20a740261fc51180e389a0ae93cf262bb7da639414dba76e9b00d9df",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_5_202310261222/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_5_202310261222_EV-Monitor.csv",
+      "bytes": 885185,
+      "sha256": "aba338ccb6f4e49a66bfbce6b71e5e524c9381806df575006734275b890abe38",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_6_202310261313/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_6_202310261313_EV-Monitor.csv",
+      "bytes": 868356,
+      "sha256": "30d8da7d5cccf5fdf3b73ef3d7711558eadda24faf2aa0ef0d44225b7ac717e8",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_7_202310261403/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_7_202310261403_EV-Monitor.csv",
+      "bytes": 885595,
+      "sha256": "37afd79645dc838a781aa69799372044f59b3a009ea0f319ecbe89cc4bc99580",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_8_202310261454/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_8_202310261454_EV-Monitor.csv",
+      "bytes": 834782,
+      "sha256": "6d9c8731e6da9affade6c399fd72fd4848b55602b6f1015da6c113215157b3e4",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_9_202311020918/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_9_202311020918_EV-Monitor.csv",
+      "bytes": 860380,
+      "sha256": "2120032a59caf32e85bfa4d0f8742c537d79fbcee13acb08c9d2b45e69ceb3ca",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_10kW_1_202310230941/Mitsubishi_EC_empty_charging_DC_10kW_1_202310230941_EV-Monitor.csv",
+      "bytes": 1441699,
+      "sha256": "59e296517e200a84607801574cd9db37c34a4bba4a659c36035e5d6d329ef05b",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_10kW_2_202310231231/Mitsubishi_EC_empty_charging_DC_10kW_2_202310231231_EV-Monitor.csv",
+      "bytes": 1632904,
+      "sha256": "b9919cc720bd37e23f0501c23e4710f0aea46a562b21a987e8ba216be391dd8e",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_5kW_1_202310240853/Mitsubishi_EC_empty_charging_DC_5kW_1_202310240853_EV-Monitor.csv",
+      "bytes": 2784028,
+      "sha256": "cc7bba58550b1e5aca163d70c7ed4add80af99e2c853fa71ee41adf89dda70b7",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_5kW_2_202310241524/Mitsubishi_EC_empty_charging_DC_5kW_2_202310241524_EV-Monitor.csv",
+      "bytes": 2280431,
+      "sha256": "9002ff872fa6910ab3a3b886e8cd5f975ffb4a296bb5b02507e1479e3c019d9f",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V2G/Mitsubishi_EC_full_discharging_DC_10kW_1_202310231107/Mitsubishi_EC_full_discharging_DC_10kW_1_202310231107_EV-Monitor.csv",
+      "bytes": 1449121,
+      "sha256": "cbabcb0ae7c7e994059f2210a9fc6bf02f735aed24cf50eeb6e595650d73e1ce",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V2G/Mitsubishi_EC_full_discharging_DC_10kW_2_202310231406/Mitsubishi_EC_full_discharging_DC_10kW_2_202310231406_EV-Monitor.csv",
+      "bytes": 1570691,
+      "sha256": "3c877cef2a9790f5765bfd9d8396c23e1e84ff8203e9bc05888d5eb3eadef7d4",
+      "crc32_verified": true
+    },
+    {
+      "member": "Mitsubishi Eclipse Cross/Static V2G/Mitsubishi_EC_full_discharging_DC_5kW_1_202310241134/Mitsubishi_EC_full_discharging_DC_5kW_1_202310241134_EV-Monitor.csv",
+      "bytes": 3886271,
+      "sha256": "853a18fb89167658f6a3f36d327ec54a6a041352b0a1103613905220a3feaf74",
+      "crc32_verified": true
+    }
+  ]
+}

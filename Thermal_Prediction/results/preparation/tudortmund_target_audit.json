@@ -1,0 +1,740 @@
+[
+  {
+    "file": "data/raw/tudortmund/selected_merged/Fiat 500e/Fiat_500e_empty_charging_DC_10kW_1_202308220917_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_1_202308170852_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_2_202308171215_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_3_202308171457_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_4_202308221128_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Honda-e/Honda_e_empty_charging_DC_10kW_1_202307201509_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Honda-e/Honda_e_empty_charging_DC_5kW_1_202307241019_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Honda-e/Honda_e_individual_charging_DC_5kW_2_202307241533_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_DC_kW_1_202307271447_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_DC_kW_2_202307281510_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Hyundai Ioniq 5/Hyundai_Ioniq5_empty_charging_DC_10kW_1_202308291055_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_1_202309050926_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_2_202309051223_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_3_202309051447_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Opel Corsa-e/OpelCorsa_e_empty_charging_DC_10kW_1_202308230945_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_1_202308150942_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_2_202308151217_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_3_202308151455_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_4_202308251006_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_5_202308251358_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Tesla Model Y/TeslaModel_Y_empty_charging_DC_10kW_1_202309140812_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Tesla Model Y/TeslaModel_Y_empty_charging_DC_10kW_2_202309211315_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_1_202309200805_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_2_202309201230_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_3_202309201544_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_1_202307280828_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_2_202307281005_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_merged/VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_3_202307281156_e.csv",
+    "target_columns": [],
+    "has_declared_target": false
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V1G/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_1_202311021527/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_1_202311021527_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.89
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2920,
+        "unique": 3,
+        "min": "21.2",
+        "max": "21.4"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2920,
+        "unique": 4,
+        "min": "22.2",
+        "max": "22.5"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V1G/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_2_202311081432/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_2_202311081432_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.1,
+      "Current CHAdeMO": 27.87
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3241,
+        "unique": 5,
+        "min": "19.6",
+        "max": "20.0"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3241,
+        "unique": 6,
+        "min": "19.8",
+        "max": "20.3"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V1G/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_3_202311081527/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_3_202311081527_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.8
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3547,
+        "unique": 3,
+        "min": "20.0",
+        "max": "20.2"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3547,
+        "unique": 4,
+        "min": "20.3",
+        "max": "20.6"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_10_202311021032/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_10_202311021032_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.1,
+      "Current CHAdeMO": 27.86
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2909,
+        "unique": 4,
+        "min": "20.2",
+        "max": "20.5"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2909,
+        "unique": 4,
+        "min": "21.3",
+        "max": "21.6"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_11_202311021132/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_11_202311021132_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.87
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2867,
+        "unique": 4,
+        "min": "20.5",
+        "max": "20.8"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2867,
+        "unique": 3,
+        "min": "21.7",
+        "max": "21.9"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_12_202311021321/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_12_202311021321_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.08,
+      "Current CHAdeMO": 27.88
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2542,
+        "unique": 3,
+        "min": "20.8",
+        "max": "21.0"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2542,
+        "unique": 2,
+        "min": "21.9",
+        "max": "22.0"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_13_202311021431/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_13_202311021431_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.1,
+      "Current CHAdeMO": 27.89
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3408,
+        "unique": 5,
+        "min": "20.8",
+        "max": "21.2"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3408,
+        "unique": 4,
+        "min": "22.0",
+        "max": "22.3"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_1_202310231622/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_1_202310231622_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.08,
+      "Current CHAdeMO": 27.9
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3225,
+        "unique": 6,
+        "min": "21.6",
+        "max": "22.1"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3225,
+        "unique": 4,
+        "min": "22.3",
+        "max": "22.6"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_2_202310260832/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_2_202310260832_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.9
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 7080,
+        "unique": 7,
+        "min": "19.8",
+        "max": "20.4"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 7080,
+        "unique": 13,
+        "min": "20.4",
+        "max": "21.6"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_3_202310261030/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_3_202310261030_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.1,
+      "Current CHAdeMO": 27.88
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3540,
+        "unique": 5,
+        "min": "20.0",
+        "max": "20.4"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3540,
+        "unique": 4,
+        "min": "21.3",
+        "max": "21.6"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_4_202310261129/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_4_202310261129_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.88
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3180,
+        "unique": 5,
+        "min": "20.1",
+        "max": "20.5"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3180,
+        "unique": 3,
+        "min": "21.3",
+        "max": "21.5"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_5_202310261222/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_5_202310261222_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.9
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3060,
+        "unique": 4,
+        "min": "20.5",
+        "max": "20.8"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3060,
+        "unique": 3,
+        "min": "21.5",
+        "max": "21.7"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_6_202310261313/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_6_202310261313_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.9
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2999,
+        "unique": 4,
+        "min": "20.8",
+        "max": "21.1"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2999,
+        "unique": 4,
+        "min": "21.7",
+        "max": "22.0"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_7_202310261403/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_7_202310261403_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.08,
+      "Current CHAdeMO": 27.89
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 3059,
+        "unique": 9,
+        "min": "20.4",
+        "max": "21.2"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 3059,
+        "unique": 4,
+        "min": "21.8",
+        "max": "22.1"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_8_202310261454/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_8_202310261454_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.07,
+      "Current CHAdeMO": 27.89
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2884,
+        "unique": 8,
+        "min": "20.6",
+        "max": "21.3"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2884,
+        "unique": 4,
+        "min": "21.8",
+        "max": "22.1"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Dynamic V2G/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_9_202311020918/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_9_202311020918_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.86
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 2970,
+        "unique": 6,
+        "min": "19.5",
+        "max": "20.0"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 2970,
+        "unique": 7,
+        "min": "20.5",
+        "max": "21.1"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_10kW_1_202310230941/Mitsubishi_EC_empty_charging_DC_10kW_1_202310230941_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.1,
+      "Current CHAdeMO": 27.89
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 4988,
+        "unique": 17,
+        "min": "20.5",
+        "max": "22.1"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 4988,
+        "unique": 17,
+        "min": "20.8",
+        "max": "22.4"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_10kW_2_202310231231/Mitsubishi_EC_empty_charging_DC_10kW_2_202310231231_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 27.92
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 5662,
+        "unique": 8,
+        "min": "23.1",
+        "max": "23.8"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 5662,
+        "unique": 7,
+        "min": "23.4",
+        "max": "24.0"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_5kW_1_202310240853/Mitsubishi_EC_empty_charging_DC_5kW_1_202310240853_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 24.23
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 9645,
+        "unique": 8,
+        "min": "21.0",
+        "max": "21.7"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 9645,
+        "unique": 9,
+        "min": "21.6",
+        "max": "22.4"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V1G/Mitsubishi_EC_empty_charging_DC_5kW_2_202310241524/Mitsubishi_EC_empty_charging_DC_5kW_2_202310241524_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 15.42
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 7888,
+        "unique": 28,
+        "min": "19.5",
+        "max": "22.2"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 7888,
+        "unique": 16,
+        "min": "21.5",
+        "max": "23.0"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V2G/Mitsubishi_EC_full_discharging_DC_10kW_1_202310231107/Mitsubishi_EC_full_discharging_DC_10kW_1_202310231107_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.08,
+      "Current CHAdeMO": 27.88
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 4996,
+        "unique": 10,
+        "min": "22.2",
+        "max": "23.1"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 4996,
+        "unique": 11,
+        "min": "22.4",
+        "max": "23.4"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V2G/Mitsubishi_EC_full_discharging_DC_10kW_2_202310231406/Mitsubishi_EC_full_discharging_DC_10kW_2_202310231406_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.08,
+      "Current CHAdeMO": 27.9
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 5427,
+        "unique": 10,
+        "min": "21.6",
+        "max": "23.8"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 5427,
+        "unique": 6,
+        "min": "22.4",
+        "max": "24.1"
+      }
+    }
+  },
+  {
+    "file": "data/raw/tudortmund/selected_raw_monitor/Mitsubishi Eclipse Cross/Static V2G/Mitsubishi_EC_full_discharging_DC_5kW_1_202310241134/Mitsubishi_EC_full_discharging_DC_5kW_1_202310241134_EV-Monitor.csv",
+    "target_columns": [
+      "Temperature CCS DC+",
+      "Temperature CCS DC-"
+    ],
+    "has_declared_target": true,
+    "connector_current_abs_max_a": {
+      "Current CCS": 0.09,
+      "Current CHAdeMO": 17.39
+    },
+    "target_profile": {
+      "Temperature CCS DC+": {
+        "nonnull": 13520,
+        "unique": 9,
+        "min": "21.6",
+        "max": "22.4"
+      },
+      "Temperature CCS DC-": {
+        "nonnull": 13520,
+        "unique": 8,
+        "min": "22.4",
+        "max": "23.1"
+      }
+    }
+  }
+]

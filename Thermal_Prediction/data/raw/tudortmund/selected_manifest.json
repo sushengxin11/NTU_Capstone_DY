@@ -1,0 +1,177 @@
+{
+  "source": "https://zenodo.org/api/records/14065331/files/dataset_merged.zip/content",
+  "record": "https://zenodo.org/records/14065331",
+  "license": "CC-BY-4.0",
+  "scope": "CCS unidirectional DC member subset",
+  "whole_archive_downloaded": false,
+  "files": [
+    {
+      "member": "Fiat 500e/Fiat_500e_empty_charging_DC_10kW_1_202308220917_e.csv",
+      "bytes": 3873349,
+      "sha256": "d8a9abb89ba7664f2540f2e6dd24ecabba4c2c893a3a2302441213b1bc423f0d",
+      "crc32_verified": true
+    },
+    {
+      "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_1_202308170852_e.csv",
+      "bytes": 1450166,
+      "sha256": "69514a63d921bc5d04cb68e2b4dc7b696515d110880a63308e1dd769de4d0c77",
+      "crc32_verified": true
+    },
+    {
+      "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_2_202308171215_e.csv",
+      "bytes": 1459424,
+      "sha256": "815d831cd2ee4ed8a31aecb86824a3c933dbcab788185a16be30bfe16a6111e0",
+      "crc32_verified": true
+    },
+    {
+      "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_3_202308171457_e.csv",
+      "bytes": 1461270,
+      "sha256": "a037698d23867364f185e2d513e2213bd6237f73e1ea017b917d0c8d980365e7",
+      "crc32_verified": true
+    },
+    {
+      "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_4_202308221128_e.csv",
+      "bytes": 6125776,
+      "sha256": "ae356fdc765fbf2532852549c114aeb507849ca7b9401badd86c50eca560038e",
+      "crc32_verified": true
+    },
+    {
+      "member": "Honda-e/Honda_e_empty_charging_DC_10kW_1_202307201509_e.csv",
+      "bytes": 6244303,
+      "sha256": "9cc786703f7ed297fab113e1a12e12f256649e342bb4b731d204a5cf9fe5a9cd",
+      "crc32_verified": true
+    },
+    {
+      "member": "Honda-e/Honda_e_empty_charging_DC_5kW_1_202307241019_e.csv",
+      "bytes": 3739969,
+      "sha256": "7dfccea3a4101de15bac10a114cc4025719574d7502c6a74aab8ef1fa534d94b",
+      "crc32_verified": true
+    },
+    {
+      "member": "Honda-e/Honda_e_individual_charging_DC_5kW_2_202307241533_e.csv",
+      "bytes": 157868,
+      "sha256": "e050482c5c328ae6bf240d18a3c1a6d68986ac1cadd5e4e2c748901d43624654",
+      "crc32_verified": true
+    },
+    {
+      "member": "Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_DC_kW_1_202307271447_e.csv",
+      "bytes": 1430245,
+      "sha256": "17434f755f8f6303d1c39cf60f827a8f474eb70f5fad83ceae96f5d127e41683",
+      "crc32_verified": true
+    },
+    {
+      "member": "Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_DC_kW_2_202307281510_e.csv",
+      "bytes": 1509633,
+      "sha256": "3b9b5ab031dd50466ae1ff910451a6487df7346b5fd3387c88281737564dd622",
+      "crc32_verified": true
+    },
+    {
+      "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_empty_charging_DC_10kW_1_202308291055_e.csv",
+      "bytes": 18028346,
+      "sha256": "04360d021ce7b43a2204b05805ff2367813da547442f0eaf90d6a17a749dee08",
+      "crc32_verified": true
+    },
+    {
+      "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_1_202309050926_e.csv",
+      "bytes": 1465358,
+      "sha256": "7541b6d9eee57e78970d5837b7a02541ed0cdfd34b4dfe4f3a763a7fb7c64bc8",
+      "crc32_verified": true
+    },
+    {
+      "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_2_202309051223_e.csv",
+      "bytes": 1467971,
+      "sha256": "1f3527d78e9f443a65b72bf407e49f402932b9925d520d9e92f0322998171504",
+      "crc32_verified": true
+    },
+    {
+      "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_3_202309051447_e.csv",
+      "bytes": 1284421,
+      "sha256": "3d4dd617d5e8b764bcca50297962751c7b9c563cbb2eb858f1aaec41171426b0",
+      "crc32_verified": true
+    },
+    {
+      "member": "Opel Corsa-e/OpelCorsa_e_empty_charging_DC_10kW_1_202308230945_e.csv",
+      "bytes": 9822643,
+      "sha256": "35b0b35c0b1fedf706dcf7ea148e2a12bb8a3d4670143b6a6c2ed6bb1d7f62c6",
+      "crc32_verified": true
+    },
+    {
+      "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_1_202308150942_e.csv",
+      "bytes": 1456508,
+      "sha256": "291be1e9e8785c7f691a4be178b1e57587174180c58a83c44b596b11ddd75932",
+      "crc32_verified": true
+    },
+    {
+      "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_2_202308151217_e.csv",
+      "bytes": 1463425,
+      "sha256": "da4219bbd3471e1f51a6f1fb6515d9741553bc7b82f8f7fd310dd69952e2450e",
+      "crc32_verified": true
+    },
+    {
+      "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_3_202308151455_e.csv",
+      "bytes": 1463805,
+      "sha256": "5a1f96a3f55d4ec30d81d3580164eb8cfd0794d846dfb2fa9ae333914bb32792",
+      "crc32_verified": true
+    },
+    {
+      "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_4_202308251006_e.csv",
+      "bytes": 13214250,
+      "sha256": "bccae9bc4f40a1a234baa17e21c6b16a2c6a3fb2412811b1e5df3b5f062289c4",
+      "crc32_verified": true
+    },
+    {
+      "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_5_202308251358_e.csv",
+      "bytes": 16405330,
+      "sha256": "d301405729d0ed0c814c77f23b4317a3c532f467dcc320614bddda944e4f0d42",
+      "crc32_verified": true
+    },
+    {
+      "member": "Tesla Model Y/TeslaModel_Y_empty_charging_DC_10kW_1_202309140812_e.csv",
+      "bytes": 70163268,
+      "sha256": "8d26e60ee97f7512191d1141e2048fe865a7f2f901e7385da7fde4cedd1356cc",
+      "crc32_verified": true
+    },
+    {
+      "member": "Tesla Model Y/TeslaModel_Y_empty_charging_DC_10kW_2_202309211315_e.csv",
+      "bytes": 12713584,
+      "sha256": "bf54c73b0b62eefd8df0fb59996d9218e1b519be7cbabadb4ef07c3669e21831",
+      "crc32_verified": true
+    },
+    {
+      "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_1_202309200805_e.csv",
+      "bytes": 1460793,
+      "sha256": "c6a370e619b7deb0093b6668a635e04bb416cb75bb93e2f23de657d510587c1c",
+      "crc32_verified": true
+    },
+    {
+      "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_2_202309201230_e.csv",
+      "bytes": 1462655,
+      "sha256": "fa582776c86885cce36e6f4ed0b3d63bc1e9813d694231991948e35f09b99815",
+      "crc32_verified": true
+    },
+    {
+      "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_3_202309201544_e.csv",
+      "bytes": 1463973,
+      "sha256": "6a9f7e9885d78d044807a62c90fc796a1dce1927647e3b8a1f3796cd9a40a8f4",
+      "crc32_verified": true
+    },
+    {
+      "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_1_202307280828_e.csv",
+      "bytes": 1428542,
+      "sha256": "cf6f1a54cd3cbc7cad1123fd723db1dfd24d36dcc991eee95bf6b6a52dc496df",
+      "crc32_verified": true
+    },
+    {
+      "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_2_202307281005_e.csv",
+      "bytes": 1421371,
+      "sha256": "7172aa013b29fbd2638c278922f0f9bb078f59fa47af5dafe9c621577c1694fd",
+      "crc32_verified": true
+    },
+    {
+      "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_3_202307281156_e.csv",
+      "bytes": 1409994,
+      "sha256": "ce3e41df4c7a1e13516c8f6f116925b66508f1e3515d98abc66a5e3371cc0324",
+      "crc32_verified": true
+    }
+  ]
+}

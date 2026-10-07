@@ -1,0 +1,88 @@
+{
+  "status": "frozen_before_model_fit",
+  "data_route": "public_bev_pack_temperature",
+  "target": "BMSmaxPackTemperature",
+  "horizon_s": 60,
+  "history_s": 60,
+  "future_power": "origin_hold_no_future_measured_power",
+  "ambient": "origin_hold",
+  "power_bands_w": {
+    "idle_upper": 1000,
+    "low_upper": 68836.60633571124,
+    "mid_upper": 94665.54018340864
+  },
+  "power_bands_fit_on": "positive training power > 1000 W",
+  "models": [
+    "temperature_persistence",
+    "effective_RC",
+    "RC_plus_small_MLP"
+  ],
+  "scope_review": "pack temperature substitutes original module candidate; clarify in final report",
+  "split": "provisional_split.csv",
+  "seed": 42,
+  "window_stride_s": 10,
+  "output_horizons_s": [
+    10,
+    20,
+    30,
+    40,
+    50,
+    60
+  ],
+  "nn_candidates": [
+    [
+      16,
+      16
+    ],
+    [
+      32,
+      32
+    ]
+  ],
+  "nn_max_epochs": 250,
+  "nn_patience": 25,
+  "selection": "validation session-macro RMSE at 60s",
+  "rc_equation": "dT/dt = a*(I_battery/100A)^2 - b*(T-Tambient)",
+  "rc_parameter_bounds": [
+    [
+      0,
+      1e-08
+    ],
+    [
+      0.01,
+      0.01
+    ]
+  ],
+  "nn_feature_names": [
+    "T0",
+    "T0_minus_ambient",
+    "T_change_20s",
+    "T_change_40s",
+    "T_change_60s",
+    "I0_100A",
+    "I_mean_100A",
+    "I_std_100A",
+    "I_change_100A",
+    "P0_100kW",
+    "P_mean_100kW",
+    "P_std_100kW",
+    "ambient0",
+    "ambient_change",
+    "soc0",
+    "soc_change",
+    "voltage0_400V",
+    "rc_delta_10s",
+    "rc_delta_20s",
+    "rc_delta_30s",
+    "rc_delta_40s",
+    "rc_delta_50s",
+    "rc_delta_60s"
+  ],
+  "measurement_latency_assumption": "zero",
+  "raw_output_clipping": false,
+  "input_hashes": {
+    "data/processed/bev_fast_clean.csv": "413617bcf784801e7fb61df0fb44b8339ee4a2e656809c4c8aa382969638327e",
+    "configs/provisional_split.csv": "90856bd26cb418d78d529733b47707b4df0e5eff6a7c2cebd87015bf5b7902a8",
+    "src/run_thermal_v1.py": "62acc7c03a76681c8b5edbda54616011257e5711ec0aa8058f90f96554d21c7b"
+  }
+}

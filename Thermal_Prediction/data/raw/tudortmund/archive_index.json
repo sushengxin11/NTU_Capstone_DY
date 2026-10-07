@@ -1,0 +1,682 @@
+[
+  {
+    "member": "Fiat 500e/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_empty_charging_AC_22kW_1_202308150939_e.csv",
+    "bytes": 4245509,
+    "compressed_bytes": 1028372
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_empty_charging_DC_10kW_1_202308220917_e.csv",
+    "bytes": 3873349,
+    "compressed_bytes": 521997
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_AC_kW_1_202308170945_e.csv",
+    "bytes": 1589560,
+    "compressed_bytes": 210369
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_AC_kW_2_202308171303_e.csv",
+    "bytes": 1449125,
+    "compressed_bytes": 193568
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_AC_kW_3_202308171543_e.csv",
+    "bytes": 1447803,
+    "compressed_bytes": 192739
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_AC_kW_7_202308231609_e.csv",
+    "bytes": 1449215,
+    "compressed_bytes": 195090
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_1_202308170852_e.csv",
+    "bytes": 1450166,
+    "compressed_bytes": 187197
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_2_202308171215_e.csv",
+    "bytes": 1459424,
+    "compressed_bytes": 185267
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_3_202308171457_e.csv",
+    "bytes": 1461270,
+    "compressed_bytes": 186454
+  },
+  {
+    "member": "Fiat 500e/Fiat_500e_individual_ts_unidir_arbitrary_1_DC_kW_4_202308221128_e.csv",
+    "bytes": 6125776,
+    "compressed_bytes": 729022
+  },
+  {
+    "member": "Honda-e/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Honda-e/Honda_e_empty_charging_AC_22kW_1_202307280818_e.csv",
+    "bytes": 4154643,
+    "compressed_bytes": 964968
+  },
+  {
+    "member": "Honda-e/Honda_e_empty_charging_DC_10kW_1_202307201509_e.csv",
+    "bytes": 6244303,
+    "compressed_bytes": 930304
+  },
+  {
+    "member": "Honda-e/Honda_e_empty_charging_DC_5kW_1_202307241019_e.csv",
+    "bytes": 3739969,
+    "compressed_bytes": 590732
+  },
+  {
+    "member": "Honda-e/Honda_e_full_discharging_DC_10kW_1_202307201138_e.csv",
+    "bytes": 5730730,
+    "compressed_bytes": 896711
+  },
+  {
+    "member": "Honda-e/Honda_e_full_discharging_DC_5kW_1_202307210952_e.csv",
+    "bytes": 1721661,
+    "compressed_bytes": 270167
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_charging_DC_5kW_2_202307241533_e.csv",
+    "bytes": 157868,
+    "compressed_bytes": 26268
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_discharging_DC_5kW_1_202307211207_e.csv",
+    "bytes": 1699711,
+    "compressed_bytes": 262136
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_1_202307251207_e.csv",
+    "bytes": 3033017,
+    "compressed_bytes": 471325
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_2_202307251713_e.csv",
+    "bytes": 308517,
+    "compressed_bytes": 52839
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_3_202307261000_e.csv",
+    "bytes": 734055,
+    "compressed_bytes": 112890
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_4_202307261042_e.csv",
+    "bytes": 1318054,
+    "compressed_bytes": 198308
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_5_202307261150_e.csv",
+    "bytes": 1316473,
+    "compressed_bytes": 198744
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_6_202307261453_e.csv",
+    "bytes": 1549311,
+    "compressed_bytes": 206293
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_bidir_arbitrary_1_DC_kW_7_202307281410_e.csv",
+    "bytes": 1559593,
+    "compressed_bytes": 207253
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_AC_kW_1_202307271600_e.csv",
+    "bytes": 1275686,
+    "compressed_bytes": 168802
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_AC_kW_2_202307271708_e.csv",
+    "bytes": 1378536,
+    "compressed_bytes": 184385
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_DC_kW_1_202307271447_e.csv",
+    "bytes": 1430245,
+    "compressed_bytes": 188259
+  },
+  {
+    "member": "Honda-e/Honda_e_individual_ts_unidir_arbitrary_1_DC_kW_2_202307281510_e.csv",
+    "bytes": 1509633,
+    "compressed_bytes": 196911
+  },
+  {
+    "member": "Hyundai Ioniq 5/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_empty_charging_AC_22kW_1_202308310825_e.csv",
+    "bytes": 6839510,
+    "compressed_bytes": 1477149
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_empty_charging_AC_22kW_2_202309070833_e.csv",
+    "bytes": 73402250,
+    "compressed_bytes": 9616091
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_empty_charging_DC_10kW_1_202308291055_e.csv",
+    "bytes": 18028346,
+    "compressed_bytes": 2332585
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_AC_kW_1_202309051012_e.csv",
+    "bytes": 1458515,
+    "compressed_bytes": 193523
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_AC_kW_2_202309051320_e.csv",
+    "bytes": 1458501,
+    "compressed_bytes": 194836
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_AC_kW_3_202309051535_e.csv",
+    "bytes": 1458909,
+    "compressed_bytes": 192710
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_1_202309050926_e.csv",
+    "bytes": 1465358,
+    "compressed_bytes": 190686
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_2_202309051223_e.csv",
+    "bytes": 1467971,
+    "compressed_bytes": 189581
+  },
+  {
+    "member": "Hyundai Ioniq 5/Hyundai_Ioniq5_individual_ts_unidir_arbitrary_1_DC_kW_3_202309051447_e.csv",
+    "bytes": 1284421,
+    "compressed_bytes": 171447
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_empty_charging_DC_10kW_1_202310230941_e.csv",
+    "bytes": 18854337,
+    "compressed_bytes": 2987890
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_empty_charging_DC_5kW_1_202310240853_e.csv",
+    "bytes": 35134308,
+    "compressed_bytes": 5635522
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_empty_charging_DC_5kW_2_202310241524_e.csv",
+    "bytes": 30612141,
+    "compressed_bytes": 4910866
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_full_discharging_DC_10kW_1_202310231107_e.csv",
+    "bytes": 16361395,
+    "compressed_bytes": 2561050
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_full_discharging_DC_10kW_2_202310231406_e.csv",
+    "bytes": 19481203,
+    "compressed_bytes": 3079113
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_full_discharging_DC_5kW_1_202310241134_e.csv",
+    "bytes": 26131214,
+    "compressed_bytes": 4132924
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_13_202311021431_e.csv",
+    "bytes": 2341460,
+    "compressed_bytes": 279711
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_1_202310231622_e.csv",
+    "bytes": 10977728,
+    "compressed_bytes": 1758182
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_2_202310260832_e.csv",
+    "bytes": 10997745,
+    "compressed_bytes": 1724239
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_3_202310261030_e.csv",
+    "bytes": 11010322,
+    "compressed_bytes": 1737837
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_4_202310261129_e.csv",
+    "bytes": 10997381,
+    "compressed_bytes": 1752914
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_5_202310261222_e.csv",
+    "bytes": 11000231,
+    "compressed_bytes": 1758303
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_6_202310261313_e.csv",
+    "bytes": 10996745,
+    "compressed_bytes": 1755600
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_bidir_arbitrary_1_DC_kW_8_202310261454_e.csv",
+    "bytes": 10972018,
+    "compressed_bytes": 1761421
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_AC_kW_1_202311081106_e.csv",
+    "bytes": 9727612,
+    "compressed_bytes": 1650840
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_AC_kW_2_202311081228_e.csv",
+    "bytes": 9722350,
+    "compressed_bytes": 1645807
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_AC_kW_3_202311081628_e.csv",
+    "bytes": 9715714,
+    "compressed_bytes": 1644640
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_1_202311021527_e.csv",
+    "bytes": 10503361,
+    "compressed_bytes": 1685911
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_2_202311081432_e.csv",
+    "bytes": 10500981,
+    "compressed_bytes": 1680905
+  },
+  {
+    "member": "Mitsubishi Eclipse Cross/Mitsubishi_EC_individual_ts_unidir_arbitrary_1_DC_kW_3_202311081527_e.csv",
+    "bytes": 10482582,
+    "compressed_bytes": 1691272
+  },
+  {
+    "member": "Nissan Leaf/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_empty_charging_DC_10kW_1_202309271025_e.csv",
+    "bytes": 67274431,
+    "compressed_bytes": 10395543
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_empty_charging_DC_5kW_1_202309280835_e.csv",
+    "bytes": 134391450,
+    "compressed_bytes": 20651672
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_full_discharging_DC_10kW_2_202309121043_e.csv",
+    "bytes": 52565692,
+    "compressed_bytes": 6250433
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_full_discharging_DC_10kW_3_202309271545_e.csv",
+    "bytes": 7913163,
+    "compressed_bytes": 1259081
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_full_discharging_DC_5kW_2_202309271754_e.csv",
+    "bytes": 109761629,
+    "compressed_bytes": 16300708
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_10_202309261022_e.csv",
+    "bytes": 10148864,
+    "compressed_bytes": 1649799
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_11_202309261234_e.csv",
+    "bytes": 10157590,
+    "compressed_bytes": 1649616
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_12_202309261431_e.csv",
+    "bytes": 10158305,
+    "compressed_bytes": 1660324
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_13_202309290911_e.csv",
+    "bytes": 1551038,
+    "compressed_bytes": 201705
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_14_202309291209_e.csv",
+    "bytes": 1550532,
+    "compressed_bytes": 200279
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_1_202308310920_e.csv",
+    "bytes": 10220157,
+    "compressed_bytes": 1638367
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_2_202308311234_e.csv",
+    "bytes": 10229378,
+    "compressed_bytes": 1644588
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_3_202309211128_e.csv",
+    "bytes": 1556730,
+    "compressed_bytes": 203853
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_4_202309250953_e.csv",
+    "bytes": 10174704,
+    "compressed_bytes": 1628069
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_5_202309251127_e.csv",
+    "bytes": 10191131,
+    "compressed_bytes": 1633754
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_6_202309251354_e.csv",
+    "bytes": 10184696,
+    "compressed_bytes": 1663008
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_7_202309251535_e.csv",
+    "bytes": 10182929,
+    "compressed_bytes": 1660726
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_8_202309251710_e.csv",
+    "bytes": 10190272,
+    "compressed_bytes": 1659036
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_bidir_arbitrary_1_DC_kW_9_202309260833_e.csv",
+    "bytes": 10161137,
+    "compressed_bytes": 1626731
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_10_202309141322_e.csv",
+    "bytes": 8900546,
+    "compressed_bytes": 1610138
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_11_202309150845_e.csv",
+    "bytes": 8937404,
+    "compressed_bytes": 1581155
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_12_202309151113_e.csv",
+    "bytes": 8920292,
+    "compressed_bytes": 1587767
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_13_202309190953_e.csv",
+    "bytes": 8933592,
+    "compressed_bytes": 1576122
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_14_202309191117_e.csv",
+    "bytes": 8928989,
+    "compressed_bytes": 1573474
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_15_202309191257_e.csv",
+    "bytes": 8929873,
+    "compressed_bytes": 1572194
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_16_202309191430_e.csv",
+    "bytes": 8895081,
+    "compressed_bytes": 1567430
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_17_202309201542_e.csv",
+    "bytes": 726815,
+    "compressed_bytes": 169004
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_18_202309201636_e.csv",
+    "bytes": 726608,
+    "compressed_bytes": 167754
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_19_202309210951_e.csv",
+    "bytes": 724937,
+    "compressed_bytes": 164906
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_1_202308311026_e.csv",
+    "bytes": 9745157,
+    "compressed_bytes": 1673816
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_20_202309211314_e.csv",
+    "bytes": 726143,
+    "compressed_bytes": 168599
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_2_202308311327_e.csv",
+    "bytes": 9743999,
+    "compressed_bytes": 1638597
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_5_202309051404_e.csv",
+    "bytes": 724258,
+    "compressed_bytes": 164323
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_7_202309140905_e.csv",
+    "bytes": 8927353,
+    "compressed_bytes": 1602334
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_8_202309141030_e.csv",
+    "bytes": 8929081,
+    "compressed_bytes": 1575929
+  },
+  {
+    "member": "Nissan Leaf/Nissan_Leaf_individual_ts_unidir_arbitrary_1_AC_kW_9_202309141202_e.csv",
+    "bytes": 8923582,
+    "compressed_bytes": 1579427
+  },
+  {
+    "member": "Opel Corsa-e/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_empty_charging_AC_22kW_1_202308171034_e.csv",
+    "bytes": 4905525,
+    "compressed_bytes": 1277369
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_empty_charging_DC_10kW_1_202308230945_e.csv",
+    "bytes": 9822643,
+    "compressed_bytes": 1267025
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_AC_kW_1_202308151029_e.csv",
+    "bytes": 1454013,
+    "compressed_bytes": 207412
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_AC_kW_2_202308151306_e.csv",
+    "bytes": 1454307,
+    "compressed_bytes": 205333
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_AC_kW_3_202308151542_e.csv",
+    "bytes": 1232726,
+    "compressed_bytes": 170782
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_AC_kW_4_202308251524_e.csv",
+    "bytes": 17475660,
+    "compressed_bytes": 4186695
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_1_202308150942_e.csv",
+    "bytes": 1456508,
+    "compressed_bytes": 197822
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_2_202308151217_e.csv",
+    "bytes": 1463425,
+    "compressed_bytes": 197076
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_3_202308151455_e.csv",
+    "bytes": 1463805,
+    "compressed_bytes": 197726
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_4_202308251006_e.csv",
+    "bytes": 13214250,
+    "compressed_bytes": 2785646
+  },
+  {
+    "member": "Opel Corsa-e/OpelCorsa_e_individual_ts_unidir_arbitrary_1_DC_kW_5_202308251358_e.csv",
+    "bytes": 16405330,
+    "compressed_bytes": 3783873
+  },
+  {
+    "member": "Tesla Model Y/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_empty_charging_AC_22kW_1_202309120915_e.csv",
+    "bytes": 65346532,
+    "compressed_bytes": 10706511
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_empty_charging_AC_22kW_2_202309150830_e.csv",
+    "bytes": 11407265,
+    "compressed_bytes": 1500771
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_empty_charging_DC_10kW_1_202309140812_e.csv",
+    "bytes": 70163268,
+    "compressed_bytes": 8964713
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_empty_charging_DC_10kW_2_202309211315_e.csv",
+    "bytes": 12713584,
+    "compressed_bytes": 1607315
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_AC_kW_1_202309200852_e.csv",
+    "bytes": 1452480,
+    "compressed_bytes": 194637
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_AC_kW_2_202309191439_e.csv",
+    "bytes": 1445941,
+    "compressed_bytes": 192122
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_AC_kW_2_202309201319_e.csv",
+    "bytes": 9412324,
+    "compressed_bytes": 1530083
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_AC_kW_3_202309201629_e.csv",
+    "bytes": 1454161,
+    "compressed_bytes": 192274
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_AC_kW_4_202309211122_e.csv",
+    "bytes": 732534,
+    "compressed_bytes": 173027
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_AC_kW_5_202309211224_e.csv",
+    "bytes": 732104,
+    "compressed_bytes": 174471
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_1_202309200805_e.csv",
+    "bytes": 1460793,
+    "compressed_bytes": 188378
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_2_202309201230_e.csv",
+    "bytes": 1462655,
+    "compressed_bytes": 186920
+  },
+  {
+    "member": "Tesla Model Y/TeslaModel_Y_individual_ts_unidir_arbitrary_1_DC_kW_3_202309201544_e.csv",
+    "bytes": 1463973,
+    "compressed_bytes": 188539
+  },
+  {
+    "member": "VW ID4/",
+    "bytes": 0,
+    "compressed_bytes": 0
+  },
+  {
+    "member": "VW ID4/VW_ID4_empty_charging_AC_22kW_1_202307211036_e.csv",
+    "bytes": 584168,
+    "compressed_bytes": 151867
+  },
+  {
+    "member": "VW ID4/VW_ID4_empty_charging_AC_22kW_1_202307270824_e.csv",
+    "bytes": 6097718,
+    "compressed_bytes": 1447793
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_charging_AC_22kW_1_202307211204_e.csv",
+    "bytes": 1664463,
+    "compressed_bytes": 417024
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_charging_AC_22kW_2_202307241006_e.csv",
+    "bytes": 2114545,
+    "compressed_bytes": 531878
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_charging_AC_22kW_2_202307241528_e.csv",
+    "bytes": 129960,
+    "compressed_bytes": 34599
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_AC_kW_1_202307280915_e.csv",
+    "bytes": 1384485,
+    "compressed_bytes": 188001
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_AC_kW_2_202307281106_e.csv",
+    "bytes": 1364149,
+    "compressed_bytes": 183169
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_AC_kW_3_202307281243_e.csv",
+    "bytes": 1520968,
+    "compressed_bytes": 200065
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_1_202307280828_e.csv",
+    "bytes": 1428542,
+    "compressed_bytes": 190504
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_2_202307281005_e.csv",
+    "bytes": 1421371,
+    "compressed_bytes": 189725
+  },
+  {
+    "member": "VW ID4/VW_ID4_individual_ts_unidir_arbitrary_1_DC_kW_3_202307281156_e.csv",
+    "bytes": 1409994,
+    "compressed_bytes": 186945
+  }
+]

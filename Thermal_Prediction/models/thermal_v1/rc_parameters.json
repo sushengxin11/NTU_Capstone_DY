@@ -1,0 +1,8 @@
+{
+  "a_c_per_s_at_100a_squared": 0.002619888999392442,
+  "b_per_s": 0.00018137844928334143,
+  "effective_tau_s": 5513.334158226505,
+  "fit_train_sessions_only": true,
+  "physical_R_C_not_identified": true,
+  "optimizer_success": true
+}

@@ -1,0 +1,5 @@
+# Large downloaded archives stay local; provenance and selected evidence remain available.
+data/raw/**/*.zip
+data/raw/**/*.part
+data/raw/tudortmund/selected_merged/
+data/raw/tudortmund/selected_raw_monitor/

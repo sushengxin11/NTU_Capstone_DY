@@ -1,0 +1,8 @@
+{
+  "input_hashes_match": true,
+  "all_four_metric_tables_recomputed": true,
+  "metric_max_abs_difference": 6.772360450213455e-15,
+  "saved_model_all_window_prediction_max_abs_difference": 7.105427357601002e-15,
+  "scaler_training_means_recomputed": true,
+  "retraining_performed": false
+}

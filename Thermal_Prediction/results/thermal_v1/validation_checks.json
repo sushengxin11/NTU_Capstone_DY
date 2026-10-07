@@ -1,0 +1,11 @@
+{
+  "model_reload_max_abs_difference": 0.0,
+  "demo_matches_saved_prediction": true,
+  "future_value_perturbation_invariance": true,
+  "zero_heat_cools_toward_ambient": true,
+  "higher_current_squared_not_lower_rc_temperature": true,
+  "window_does_not_cross_missing_time": true,
+  "train_validation_test_session_disjoint": true,
+  "scalers_fit_train_only": true,
+  "no_output_clipping": true
+}

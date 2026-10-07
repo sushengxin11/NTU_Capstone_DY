@@ -1,0 +1,22 @@
+{
+  "status": "candidate_protocol_not_trained",
+  "data_route": "public_bev_pack_temperature",
+  "target": "BMSmaxPackTemperature",
+  "horizon_s": 60,
+  "history_s": 60,
+  "future_power": "origin_hold_no_future_measured_power",
+  "ambient": "origin_hold",
+  "power_bands_w": {
+    "idle_upper": 1000,
+    "low_upper": 68836.60633571124,
+    "mid_upper": 94665.54018340864
+  },
+  "power_bands_fit_on": "positive training power > 1000 W",
+  "models": [
+    "temperature_persistence",
+    "effective_RC",
+    "RC_plus_small_MLP"
+  ],
+  "scope_review": "pack temperature substitutes original module candidate; clarify in final report",
+  "split": "provisional_split.csv"
+}
