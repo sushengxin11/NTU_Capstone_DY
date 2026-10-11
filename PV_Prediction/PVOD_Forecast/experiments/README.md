@@ -1,5 +1,8 @@
 # station05 光伏预测实验 v1
 
+流程总览与一键运行顺序（含各步输入输出）见：
+[README_pipeline_overview.md](README_pipeline_overview.md)
+
 使用 station05 的原始 PVOD 和 `PV_Prediction/data/ERA5_data/`，运行 15 分钟与 1 小时超前功率预测。原始输入只读，新产物存于 `../results/station05_v1/`。
 
 ## 运行

@@ -1,0 +1,11 @@
+源表: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/models/station05.csv
+月度切片: 2019-04
+合并表: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_merged_2019-04.csv
+清洗表: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_cleaned_2019-04.csv
+工程化表: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_engineered_2019-04.csv
+主特征表: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_master_feature_table_2019-04.csv
+特征元数据: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_feature_metadata_2019-04.csv
+报告: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_feature_analysis_report_2019-04.md
+Pearson-MI 图: /Users/dazhaxie/Desktop/Deye/NTU_Capstone_DY/PV_Prediction/PVOD_Forecast/artifacts/station05_pearson_vs_mi_scatter.png
+特征家族计数: {"1D": 6, "2D": 7, "3D": 0}
+CV 平均 RMSE: 1.3704
